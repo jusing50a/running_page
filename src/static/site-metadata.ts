@@ -16,23 +16,19 @@ const getBasePath = () => {
 };
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Workouts Map',
-  siteUrl: 'https://ben29.xyz',
-  logo: 'https://avatars3.githubusercontent.com/u/6956444?s=460&u=97e1062227c4088db3c987146455245c6fa78441',
+  siteTitle: 'Running Page',
+  siteUrl: 'https://jusing50a.github.io/running_page',
+  logo: 'https://avatars.githubusercontent.com/u/37446043?s=460&v=4',
   description: 'Personal site and blog',
-  keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
+  keywords: 'running, cycling, trail-running, hiking, snowboarding',
   navLinks: [
     {
-      name: 'Summary',
-      url: `${getBasePath()}/summary`,
-    },
-    {
-      name: 'Blog',
-      url: 'https://ben29.xyz',
+      name: 'Strava',
+      url: 'https://www.strava.com/athletes/91018631',
     },
     {
       name: 'About',
-      url: 'https://github.com/ben-29/workouts_page/blob/master/README-CN.md',
+      url: 'https://github.com/jusing50a/running_page',
     },
   ],
 };

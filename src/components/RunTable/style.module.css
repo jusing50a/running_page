@@ -33,6 +33,10 @@
   }
 }
 
+.runHead {
+  white-space: nowrap;
+}
+
 .runRow {
   cursor: pointer;
   :is(td) {
@@ -62,4 +66,5 @@
 
 .runDate {
   color: rgb(204, 204, 204);
+  white-space: nowrap;
 }
