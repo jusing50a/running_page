@@ -203,7 +203,7 @@ const Index = () => {
 
   return (
     <Layout>
-      <div className="w-full lg:w-1/4">
+      <div className="w-full lg:w-1/4 overflow-x-hidden">
         <h1 className="my-12 text-5xl font-extrabold italic">
           <a href="/">{siteTitle}</a>
         </h1>
