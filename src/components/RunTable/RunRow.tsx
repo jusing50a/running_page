@@ -2,7 +2,6 @@ import {
   formatPace,
   colorFromType,
   titleForRun,
-  formatRunTime,
   Activity,
   RunIds,
 } from '@/utils/utils';
@@ -29,7 +28,7 @@ const RunRow = ({
   const paceParts = run.average_speed ? formatPace(run.average_speed) : null;
   const heartRate = run.average_heartrate;
   const type = run.type;
-  const runTime = formatRunTime(run.moving_time);
+  const runTime = (run.moving_time);
   const handleClick = () => {
     if (runIndex === elementIndex) {
       setRunIndex(-1);
