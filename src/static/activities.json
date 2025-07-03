@@ -9182,5 +9182,21 @@
 "elevation_gain": 20.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 14984474075,
+"name": "\u665a\u95f4\u9a91\u884c",
+"distance": 18208.8,
+"moving_time": "0:51:26",
+"type": "VirtualRide",
+"start_date": "2025-07-02 13:58:06+00:00",
+"start_date_local": "2025-07-02 21:58:06",
+"location_country": "East Drive, Upper East Side, Manhattan, New York County, \u7ebd\u7ea6/\u7d10\u7d04, \u7ebd\u7ea6\u5dde / \u7d10\u7d04\u5dde, 10021, \u7f8e\u5229\u575a\u5408\u4f17\u56fd/\u7f8e\u5229\u5805\u5408\u773e\u570b",
+"summary_polyline": "g`{wF~umbMiBFyGeBiK_J{FiE{@iAu@{CEyAVuDKiAWy@qYuR_CwAkAg@kG[sAReCtAmAEkB_AiBsAaEgF{AwAi@OoEJoBY}@]cBcB}@gCa@e@UIm@JUN]t@G`@HdAX~@r@vADb@QbAi@f@WFk@U{CeDoDiB}@Qu@RsAlCgA|CmAlJ@|@`@z@fAv@z@Fh@M`@a@z@yDn@u@zF}@f@F|@f@x@x@Zt@fApE\\t@j@b@fBx@Zb@h@|AlAvEh@fAr@j@zDpBtD|Bh@p@dAdC\\f@rFd@|@^bAlBn@`Db@nAnArB|@|@|BpAhB^lBQvDeAt@@dA`@lAbAnC`D\\p@b@|A`@^bAN`DOl@Rz@p@rJbLt@fAnCfF`CdClAd@tHWr@Dl@V`@h@pAzDv@nAfBfApIfDvBxBrFxHnBhB|A|@bALvAw@T[Le@Bi@Im@aB{BsByBaEyCuAwAc@w@YgAAcAPa@`@E~Df@r@YfCuBrBOn@}@bCkGr@i@f@Oh@TrAbCb@Z`@Qn@wAZ]|@ChAZ|ChBjAbAd@`A@lAo@~BcClFu@rB_FxQs@zBk@pAwAtBw@b@{AEiBs@gBgAkAiAQa@Gi@@i@`@oBv@yBPWbAm@RUH[CcAc@iCBiAh@gBjCeGLkAEa@_@u@g@g@i@[U?SJu@lAg@NiABwDpCw@?{Ce@]FQZCfAN|@l@nApAvAxElD~DpEh@Xf@El@q@xAyE\\_CE}@m@oAwI}EcAeAeAaBSu@A_APcAdAkDDw@Kw@e@}@}@iAaEqCi@}@oAyCc@o@gAs@yBq@aANo@p@Op@G`D]xAq@nEAbAPpBGbAi@bBmBrBcAd@mCg@oCBoCRmAOi@_@iBqB_EgH{JkL}@u@y@[eDN_AQ[a@YmA_@u@iC{CsAkA}@_@aAI{EnAcBHgBi@oBmA}@eAgAgBc@qAm@}C_AgBcAe@iF_@_@[gAqCk@s@cLwGs@yAiAqEq@aBc@a@qAi@s@k@]u@iA}Eg@}@u@o@u@_@g@IgG~@]ZUf@k@zC_@j@UJkABaAo@a@o@G_AfA_J|@oC~AgDRMj@EhDvAfAt@|BhCr@\\v@UXg@L{@M}@",
+"average_heartrate": 126.3,
+"average_speed": 5.9,
+"elevation_gain": 296.0,
+"source": "strava",
+"streak": 3
 }
 ]
