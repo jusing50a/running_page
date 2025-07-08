@@ -9230,5 +9230,21 @@
 "elevation_gain": 553.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15035241275,
+"name": "Zwift - Z2 Cadence Changes on Greatest London Flat in London",
+"distance": 22475.5,
+"moving_time": "0:53:24",
+"type": "VirtualRide",
+"start_date": "2025-07-07 13:09:47+00:00",
+"start_date_local": "2025-07-07 21:09:47",
+"location_country": "Constitution Hill, St. James's, Victoria, \u4f26\u6566, \u5927\u502b\u6566, \u82f1\u683c\u5170 / \u82f1\u683c\u862d, SW1A 1BD, \u82f1\u56fd / \u82f1\u570b",
+"summary_polyline": "}`jyH~mZDSBs@PgAAYOq@cVgw@wCkK]o@[[[Q_@ASMUk@OgAO[WGiBb@UIKa@Ee@@kEGg@oEcL_C_HaAwDAg@FOJEJHHNdAvD~BzGhEvK`DvHF~@NpAZn@Jf@CxAo@xKAl@Dj@`AbE~GrWxBrHLp@CXWd@iGdGqE~DEJ@^nAtDvAtDxDrJrBpEzAdEdBzDdAfBXn@bB|El@vBV|AP`CH~B@hEDjAp@vF`AxLLtBFrDR~Cp@bFz@~Df@rA|@pApAxAzBxChCjFJHZCVS\\u@z@{Dr@mG@[Cy@Hw@JUNOtAo@JY?]MuC@]JWNMhIuAhIeBxFw@TQBQ@g@EoAN]XMXBVTX~AHJLBZEnAe@tAMtBc@\\MLMbOuXzDgIrCgFPe@RwADeACeLFiCVwGf@kH`BuPFeA@}AEsBK{Ag@sDuBkSk@oG]cCYsAW{@[s@c@i@s@g@qDmBqBgBk@}@o@oAoBaGo@wA_@m@c@e@gJqHoAi@oAUoDA}EHIKEQ`@qIbAsQKOsB[MMEWJ}Bl@gKRSn@FRGHa@XuGH{@Rq@jAiAXc@ZaAFq@GkAGSW_@kCyAqAk@MIGQ@g@b@oDASWQoDg@yARMCKKGSAUBS\\kAAS[c@]IaCJwEdC_Bj@yCDoEr@uA@c@Mc@YoBmDg@kAWu@a@uBOuBKwDOm]BeJJgEN}CZgDd@{C|@_EvBoIhA}Fd@}Dx@qLVeCT{@PUf@c@Pm@JaBV_NN{DP}Av@kETaBTkCr@wLViBh@oCLmACqAYwBMqAAwBEe@SaAkAoCg@mCCkAVkC?_@I[SKoB_@Q?IVi@`K?p@Pf@r@v@\\t@ZpAFl@?n@MxAKh@Qb@WXYPw@NeASaCoAIMAQLkBEOKIyBcAeDgBU@ENIv@i@tCINKFMAqVuOaCe@qHcAk@DYRi@dAa@jAE`@B`@`@lBNtANjBB~@C|E[vCIpDLr@r@pB\\hBLpABx@CbC{AhV_@nES~CU`BiAzGmB`Qq@~IMfCGdCIpNKvGFvBj@zGF`CEpPJ~GKx]BbCNvEl@pIf@rDbAzFx@~D\\jAv@|BvA|C`BvChA~@nBrA`D~AZZNd@BVAh@[tBmBvQ_@rC@TP^^Z\\Cj@Ql@]dCeA|By@nCq@`De@~BOhI?f@LR^Hj@@rBG~@e@nNAlBhBl`@`AjRIh@Uj@eDlD]JgAGQJS^Ef@BfDMdK",
+"average_heartrate": 118.0,
+"average_speed": 7.015,
+"elevation_gain": 158.0,
+"source": "strava",
+"streak": 1
 }
 ]
