@@ -9358,5 +9358,21 @@
 "elevation_gain": 141.0,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 15134231709,
+"name": "Zwift - Z2 Cadence Changes on Scotland Smash in Scotland",
+"distance": 22047.8,
+"moving_time": "0:51:47",
+"type": "VirtualRide",
+"start_date": "2025-07-16 14:10:23+00:00",
+"start_date_local": "2025-07-16 22:10:23",
+"location_country": "The Saddle, A841, \u5317\u827e\u5c14\u90e1, \u82cf\u683c\u5170 / \u8607\u683c\u862d, KA27 8HH, \u82f1\u56fd / \u82f1\u570b",
+"summary_polyline": "mxqrIpgz^nMFb@XNf@DzCWlAuF^G`Lc@xAqD@}@s@OmA?kIY_AoDAcFtAm@O[oBBi[Hq@h@[tH?Rw@?wDd@aAlNAfAp@HnKMlAmJLgAbAeAgAqC@Sp@?rJTp@nTJh@l@HvAEtBSl@wF`@C`KYjBkEHq@`BGvFJfBbD~Fj@vC`BtDRxAJvFIvA_@bA]PaBUa@xDiBNk@`@}@rDAnBTv@d@ZpDh@rCIr@`@l@bDRnJMvB_@x@uDP_CjBiArCUtDwAlBaGLuAvAe@Ua@cCe@_@sDeAoH@e@f@[~Bc@`AmJ~JyExIaAp@w@EaAw@cBoF_AoAqAU{Cl@uAu@w@yBw@{GqEiKi@iCIkBbAqJx@mBtAZVt@AlAW|@g@XaDqCoBvAk@GeBkFe@L_AtBk@d@o@Ou@gACkBlBkFUsCh@kCy@{Ft@gB?aAgAqDo@UkBzBaAAiBqEq@wEq@k@i@@c@x@UrAdAtC?xAWlAo@l@uE~@aD~CYnAF|Ah@bA`ExAjA?lCgA~BFlAf@j@bAThFxAxC^HbCyFU{Cf@qCw@qEx@eDqAkGRkAlAcB|@I`CpCnCmAdAhBZLbBm@vD}ChASl@l@dBpE~@Pv@oAnCyK~@iAhBo@v@qAd@{B`@yFr@oBdAu@bAAj@l@jAzC^F`AaEhBaAf@eB\\W`@B~@pA|BIfGpB~HfAlEA^aB?eKSgAcEGcFtA_@OUm@?m^h@k@~HEL[B_Fd@q@|ON^nA?jJSfAgJFiA`Ay@cAwCAWl@AbJL`A|TPf@t@FvAErBWh@sF`@AzJWjBwEPk@dBDtIb@pAbCvDj@xC`BrDZtIKvAc@|@wA][Hk@hEmCd@_AnDEnBRz@b@^~Dj@xDPr@|CRrJKxB_@|@}DT_CpBeAnCMdDeAdBoAj@oEIq@jAg@Ja@a@YsBe@a@wDgAqH@c@j@q@lD}JrKuEvIcAp@u@GoAmAsAuE}@qAoAWoDj@qAaAi@{A_AsHmEaKg@gCKiB|@cJZuA^g@xAVTn@@`AUjAa@^s@S}B_CaBtAg@Da@k@u@eDYc@c@LoAfCeAJqEyHUmAC_Do@kAgEk@mChAmA?_E{Ae@s@UoABiAXaAvC{ChGcBXgABqA_A{BE{@XwAn@w@vAj@bA~FlA`D\\Vx@]nEyGp@e@l@JfBdCp@AbBgAx@`A",
+"average_heartrate": 124.9,
+"average_speed": 7.096,
+"elevation_gain": 194.0,
+"source": "strava",
+"streak": 5
 }
 ]
