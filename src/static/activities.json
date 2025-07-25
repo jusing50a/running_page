@@ -9438,5 +9438,21 @@
 "elevation_gain": 155.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15221395814,
+"name": "Zwift - Lionel Sanders' Green Day Workout on Temple Trek in Watopia",
+"distance": 22389.0,
+"moving_time": "0:46:35",
+"type": "VirtualRide",
+"start_date": "2025-07-24 13:25:59+00:00",
+"start_date_local": "2025-07-24 21:25:59",
+"location_country": "Usili, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "|}efAw~|y^~H|@lE@dDq@~HoCrBYpC^nC`A`GD\\r@KrA\\\\|Bg@bD~@B`@_@f@_DPWd@?n@dFzDrCrHrApA~Al@j@A|@oAIyAN_@p@YxAHt@R`@p@~@b@JlB^`@rU~HfDYfC`@d@vAvAj@\\nCa@x@i@Z}@a@eARU^B~A[XaBTsBYsAZwCaByDq@s@Z]r@t@~D[dCDd@v@`ArAl@s@nCBb@vAzAhB`@vBzAbDkAdBFn@e@^cAS{Ax@cBq@yB`@i@x@KtBTjAjBl@Rn@S\\eAZWb@HzBdBrDw@bBdA`Cd@V\\NzAn@RfFHtEQ|@_@fAeBdFqC~AW~C^xCeAtEb@rC|AbGo@vABb@^v@`CdBl@hCJjEWv@QbAq@f@wBx@eAjDgBlAgHzLkOz@yB`D{@j@e@~CiMe@}CdBWxAe@|COp@{@Eu@[k@iBAsAoA[k@E_Ae@c@o@FeCbBa@K_@g@EWv@uAAe@m@wAhAgMmAmB[cIi@iAs@c@iGaASYB_A~@k@lGi@r@o@hA{B~@e@XF`@nA`Az@h@rBx@VxCy@dCK|BiC~AeATu@@aCxBcEPmBOu@o@i@iEo@cAw@?}@rAcDg@wDBs@l@i@hDIr@m@r@yCpBaEXyGbB_CNgDb@eAzAmAnCgAlFSr@cADyAYgE^uAIu@w@k@aFcA[i@h@s@fGsA\\m@MiAcHwG_@Ge@h@KpD{G?Q]CaJc@a@}B?WWOqOj@WnB?h@i@t@SVgAk@oCgAu@d@_GSmBm@}AaF_DoCuDe@QiHbAwGsBmHHyBi@m@yABsEW{AkBsC}GkHaA_BN_DzAuEKoAiAg@uABqBz@_AbA?lArBdAK|AtAvCCd@c@h@cADo@}@cBgGeCuFcA}Du@m@oCUWo@KqBg@aAqAi@wBYq@P}AtAc@BiAiB_@WcCDo@SKyB]i@gASeE@sAi@w@kHfAmB~Aw@@aAi@o@{BgAiC_@eA{Ai@aBe@a@}@Uq@P_EnEaAj@kAMGaD]Ww@G_AReBlAqCYaBdAKlAk@b@iB_@u@i@cACy@XaCtB}Db@]Gi@q@{@UDuAKYuAEs@n@[bC[^s@@{BeAy@Ec@Xg@bBi@d@mBT}EAqDxBo@bBiBbBsA`G",
+"average_heartrate": 137.0,
+"average_speed": 8.01,
+"elevation_gain": 101.0,
+"source": "strava",
+"streak": 2
 }
 ]
