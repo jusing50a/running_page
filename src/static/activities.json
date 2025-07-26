@@ -9454,5 +9454,21 @@
 "elevation_gain": 101.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 15232527214,
+"name": "Zwift - Z2 Cadence Changes on Greater London Flat in London",
+"distance": 21371.8,
+"moving_time": "0:50:10",
+"type": "VirtualRide",
+"start_date": "2025-07-25 14:21:53+00:00",
+"start_date_local": "2025-07-25 22:21:53",
+"location_country": "\u6797\u836b\u8def, St. James's, Victoria, City of Westminster, \u5927\u502b\u6566, \u82f1\u683c\u5170 / \u82f1\u683c\u862d, SW1Y 5AH, \u82f1\u56fd / \u82f1\u570b",
+"summary_polyline": "gwjyH~mX@PBLxMvb@~FvRT|@@TAVO|@Eh@@hDIjG]lUShP?xAB\\DJF?DMBc@@eJj@aa@D}DC{B@g@DSL_@RWJETC`AFTMzCeDVa@Fc@{@}Oq@yNi@kKUwF@oBh@iO?qCFe@P[LGXAzFHr@M~Bs@l@M`EKpKyAdAA~AOxEG`C@`AH~@Vn@X\\VrAjAxFpEn@p@h@|@b@dAlB`Gn@nAj@v@vBlB|C|Ap@d@b@b@RZP`@^fA\\dBZzBl@vGxAfNVtCh@zDHtADbC?`AIvAS~BoA~LQ~BQvCa@hK?vADrFAbCIvAUnAQb@_CfEgFjKkF|JgGzKSJ_@JiB^oAJqAd@c@DKCIIGOQmAGQKIYEMDKFIP?TF~@Aj@GPILMFy@RwDb@oJlBqDp@iBTWFIJEP?RLpC?`@CNEJQRkAh@ONEJIj@Bx@Cl@o@`GSbAe@xB[x@OPOLSDQCIEOS{AaDm@gAuBqC{AcBq@eA[q@Mc@y@yD{@yGMiCIcEMeB}@cLc@kDMyAC_AEuFKgCUuB_@cBq@uBoAkD_@w@_A_B}@mBo@_BuAwDyAcD_C{FcDmIkAcDI]CWDWP[x@w@~BoBjFiFt@m@JU?]GYaA}Cy@qCsBeI{D{Nu@gDEi@@cAr@mMBUFQFMJIXDVPHLZr@j@nBpQxk@bG|RTfA@XCXQfAAV@jDIjGa@`WQvN@xAF`@J?BQBg@AmFBqBj@c`@DiEAoDBUNc@VY\\Ev@FLAJGdDmDP[Hg@cAeRe@sKm@eLUwF@qBh@uO@sCJa@HMHIZC~EJh@Cf@K~Bq@l@M~DM`Gu@rCc@bAAhBOrEGjC@n@Hn@Ll@Tj@\\~AtAxFpEn@p@\\l@l@tAnB`Gp@pAh@v@xBjBlCrA|@n@b@`@\\l@Xt@Rv@VpAVfB~@~JjArK\\jDZzBNhBFzCClBYjDy@~H[hDUvCMdCUxFErBDjHAhCCl@K`AIj@Od@eCnEeEtIoGvLcFdJ_@p@IF_@NgB^cBPoAd@WBWEIKKa@Ky@GOKIYCYJGNARFrA?TERILYNy@PqD`@sL`CgBZuBXUJGNANNbDEj@EJMPkAf@MJKRIl@Dz@Cb@o@bGYxAa@hBQd@U^SNUFOAUQiB{Dg@{@oBiC_BkBk@y@c@cAm@eC_@kBo@kFMqBIkEOcC}@gLe@sDKqAEuAC{EGaBOiBUwAWgAq@uByA}D",
+"average_heartrate": 115.8,
+"average_speed": 7.1,
+"elevation_gain": 88.0,
+"source": "strava",
+"streak": 3
 }
 ]
