@@ -9486,5 +9486,21 @@
 "elevation_gain": 53.0,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 15254620136,
+"name": "Zwift - Z2 Cadence Changes on Volcano Flat in Watopia",
+"distance": 23114.9,
+"moving_time": "0:55:28",
+"type": "VirtualRide",
+"start_date": "2025-07-27 14:24:44+00:00",
+"start_date_local": "2025-07-27 22:24:44",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "f|_fAqh~y^{CeBcBiBsAqDUmCJiAh@{@nGsEv@eA@_@Se@gCkBQm@TY~AWLUkAkKCgCT_B\\eAv@sAx@y@|BkA~Cy@~L{AlE_AlAiA`BeEd@y@tAgApBo@zB?dBf@hA|@fExFfAh@pALjFg@zBa@xL_DbMsDtAKp@^Jj@?xBOvMWjBwAtFaAbCAdIG`AUl@_@RsALmFF_AIy@sAmCiJ{@kAw@e@s@?iAn@c@`AGz@TrAdHzNWZm@TkK|Au@n@Kb@DVXXp@D|JqAn@@PVqAf@_LbAQLAd@ZXbAFdD_@zBD|ARl@ZNj@N~BvBxCPfAUn@_Cp@Gf@dAvCh@Vz@CTPB\\]^aAE_ANE^dAj@A`@KHs@BqAk@c@CcCl@yAfBiCdBq@bAw@bDq@rG?dCh@jJEvBYxBs@fCwEpIc@l@yAjAs@hDi@z@{BpAoBd@}DYw@RWKFUj@YlC]DSI[g@a@s@HaE`B[?s@UoC_CQe@@iALo@vAUP_@CwAJcB[mCQk@m@g@k@EaAf@gAFw@fBg@Rk@@k@e@s@kCo@iAEk@XcAr@qAfAaAZ_B|@_AHi@iGeRQgA@k@j@{@~@WpAVdBbBb@IFm@gAaCmAsDaAcBgBeA_HsBgEmCcAiAq@sAm@qBSyAFiBb@aAzG}Et@eA?]Qe@gCkBQa@@UPO`BWLSoAgL?qBXiBl@yAfAwAhDiBrEcAzM_BtBq@bAgAxA{Dj@}@~AkA`Bg@tBClBh@nAbAbEpF|@f@vAPdBKbG}@b[uIvAGn@b@FdDMdMYtBsAnFeAlCCrII~@S^i@ViAHmFF_AI}@aBgC}I}@mAy@a@s@?_Ah@k@jAEz@VpAbH|NiAn@eKzAy@n@Gr@V\\p@HjKqAn@BHRYVu@PeLbAOP@d@ZTdAF`D_@hBB`BPx@\\Ph@RlCjBdCXdAC`@SZmBb@OJGf@`ArCd@XfA?RP@Z]^mAEy@T@^bAf@A\\KJo@BmBo@s@DyAd@}AhBgCbBs@fAu@~Cq@~FA|Cj@`JE|BUnB}@|CsEjIaBtA]b@}@~DqB~AsCx@{DY}@RSGAQh@[vCc@DSI]i@_@}@LyD|AkAWsCaCMe@@cANq@tASP_@CsAL_Bi@_Eo@k@m@IeAj@eADw@fBg@Ro@@g@e@q@eCg@aA",
+"average_heartrate": 122.1,
+"average_speed": 6.946,
+"elevation_gain": 96.0,
+"source": "strava",
+"streak": 5
 }
 ]
