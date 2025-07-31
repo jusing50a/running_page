@@ -9502,5 +9502,21 @@
 "elevation_gain": 96.0,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 15287472444,
+"name": "Zwift - Z2 Cadence Changes on Mighty Metropolitan in New York",
+"distance": 17325.2,
+"moving_time": "0:50:19",
+"type": "VirtualRide",
+"start_date": "2025-07-30 14:25:02+00:00",
+"start_date_local": "2025-07-30 22:25:02",
+"location_country": "East Drive, Manhattan, New York County, \u7ebd\u7ea6/\u7d10\u7d04, \u7ebd\u7ea6\u5dde / \u7d10\u7d04\u5dde, 10021, \u7f8e\u5229\u575a\u5408\u4f17\u56fd/\u7f8e\u5229\u5805\u5408\u773e\u570b",
+"summary_polyline": "o_{wF~umbM}BFeCi@oCw@mA{@iIkH}FmEa@c@Q[e@}AOcAEgATqC@w@MkAWq@sAgA{VmPoCaBm@Wq@MqBCoCOsA`@}A`A{@He@KiBaAiBuAwDyEaAgAe@[i@KwCNo@CsBY}@]eBgBq@qB[k@QOWEm@NUP[v@Cb@LdAX|@b@x@L^@d@E`@M\\STq@Ng@W{CeDaCkAgAs@S_@Ge@?y@De@|AeGZu@TYbBw@zA_@n@CdBNdAIRQR]|@oDZw@RSTI^@`@LjChBrC|BpItFrAbAd@l@Z~@?p@Mp@q@vBIt@@ZXl@~B~A\\^R`@?p@k@nBGz@Jp@b@n@vHfGnInF~DhBbO|EdB~@v@z@Zz@HrAUzCOxAMd@c@j@_@HaC]k@?SN]r@Sx@C|@D\\LXPRrBnAr@|@x@vAX`A?|ADh@L`@PPvAf@xDf@rBM`Bc@LKTc@fC{Kf@uAZc@t@g@rAg@l@EfAJpBl@jBv@xC~A|KfHdEzCfEjDlBvB^|@Hv@Mx@]h@aBpBYt@Bj@b@~An@fBPbAEjAg@pCGl@MlB?j@BRXX\\JrCf@l@Ah@WfCuB`@Gx@@XKVYb@w@ZMlAt@Zb@J^?t@Ot@eCrFm@pBAlAf@vC?p@S\\_Al@[^aArCYbB?`ALb@R^~@|@`BbAtBz@tAF|@]f@i@h@y@l@kAb@mAxGiV~CiHl@wBD_AE_@K[_@k@gA_AcDmBgAYy@@[Py@dB[P[UwAgC]Uc@@_Af@Y`@aCfGc@j@WHqABs@`@}AvAu@X{BU{A_@O_@?e@PgCj@eDHgAM_A_AqC]{AFc@Rc@fB}BZq@Dy@Q_A]u@u@}@yAuAaCkB}HwFkIkFyDqBeC}@iB]cABsBx@c@^[b@g@~AqB|IW~@YVkBf@iBHgBSeGmAyC_AgDyAyAaAq[iUuEgEsCqBg@Q}@AuBFmGn@_C@aBa@}DsBiKkGiCiB]w@Ia@?_@n@}DH]V_@\\Ub@MxEo@f@Jx@d@f@b@j@fAdAjEXt@f@d@fBv@\\\\n@fBh@zBf@bBTh@X`@l@d@dHvDhAt@j@t@`AbC`@f@fGh@d@V`@j@",
+"average_heartrate": 118.4,
+"average_speed": 5.739,
+"elevation_gain": 294.0,
+"source": "strava",
+"streak": 1
 }
 ]
