@@ -9550,5 +9550,21 @@
 "elevation_gain": 57.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15329955266,
+"name": "Zwift - Z2 Cadence Changes on Loch Loop in Scotland",
+"distance": 22800.5,
+"moving_time": "0:53:53",
+"type": "VirtualRide",
+"start_date": "2025-08-03 11:40:41+00:00",
+"start_date_local": "2025-08-03 19:40:41",
+"location_country": "Portcullis Buttress, \u5317\u827e\u5c14\u90e1, \u82cf\u683c\u5170 / \u8607\u683c\u862d, \u82f1\u56fd / \u82f1\u570b",
+"summary_polyline": "{qrrIfi~^lFzAhAlD`ByAvEDxBwBVeE`BiDdCwAhCBl@sAEaLs@aEyJ_A{@aBF_Cx@eDpCk@f@}DvBFb@w@JgB]_IcByDe@iCcD}FQoIg@cAeNiAqH}BwBHq@iAm@Cy@tBkBhAa@pC_@h@m@QoB{D}Bp@q@lBc@|Fg@~Bu@jAeDpB}CtLs@`AcAOoBaFi@a@gFdDmBv@c@IaAiB_DhAiCuCy@b@qExGw@`@m@]qAmDu@aFqA{@k@l@]bBfAzC[fDwF`BeD~C_@dA@~Ab@hA|D~A|A@nCeAjEr@h@dADjDZvApElHv@YbA{Bf@Uh@f@nAhEhCyAlDtCp@wAWiBcAUm@|@iA|HChC|@xEjEtJfAlI|AbB`GUfAxAbBnFxBp@fAiA~DwHpJcKx@wDh@q@bJDfDlAd@dCd@`@rAwA|EBvBuBVaE`BmDnBqA|Da@V}A?sDQyFa@}Bq@m@iI_@i@]Y_AB_C~@qDvCs@f@_EtBN`@iAFwAYcHkBqEc@iC_DoFUqB?eFi@gAcFKuJ}AoDwAaCFuAuA]To@nBcB`Ae@vC[`@k@OqB}DcCx@o@tB]fFi@bCu@lAiBn@}@bAuChLu@hAoAWeBsEi@e@wI|Ec@IsAmBoCjAiCsCy@d@kErGeAb@i@e@mAgDw@gFqAo@i@l@[~AfAdD_@dDwF|A}CvCa@dAA|Ab@lAzD`BzADlCgAlEl@j@bA`@bGnEpHx@OfAaCf@Ul@l@hAbErCwA`DrCt@qASkBcA[m@v@kAxHGhC|@|EjExJfAlI|AfB`GWjA|A`BnFpBp@hAaAnEmIfJyJx@qDd@s@`J@dDhAhAjDbBwA|EBtB_CVcEdBgDnBmAzCA^e@RgCG{Fs@eG{JeAg@a@UaAD_C~@oDjCc@f@}DtBJd@}@JwA[gI_BoDq@cDaD_GMcI_@}@yNoAwGwB_CFsAuA]No@nBeB|@g@xCc@j@i@W{AkD}AAwAlBk@vGq@xC_DtB{@dAwCjL}@fA_A]iByEi@a@mFjDkBr@oByBuCjAgCqC{@f@gEnGkA`@wBsEs@}Eu@o@s@Nm@dCfApCWdDw@n@{Dp@eDzCi@`BNjBj@x@~DtArEiAfEj@p@nAFpDVhApEpHt@QfAaCj@Uj@p@dAzDnCuAjDrCp@{AWcBcAUe@j@wArLx@lFxCrG",
+"average_heartrate": 117.4,
+"average_speed": 7.052,
+"elevation_gain": 187.0,
+"source": "strava",
+"streak": 2
 }
 ]
