@@ -9566,5 +9566,21 @@
 "elevation_gain": 187.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 15341443373,
+"name": "Zwift - Z2 Cadence Changes on London Flat in London",
+"distance": 21700.0,
+"moving_time": "0:53:12",
+"type": "VirtualRide",
+"start_date": "2025-08-04 13:42:09+00:00",
+"start_date_local": "2025-08-04 21:42:09",
+"location_country": "\u5854\u6865, Tower Bridge Road, Butler's Wharf, Bermondsey, London Borough of Southwark, \u4f26\u6566, \u5927\u502b\u6566, \u82f1\u683c\u5170 / \u82f1\u683c\u862d, SE1 2UP, \u82f1\u56fd / \u82f1\u570b",
+"summary_polyline": "c}jyHtoMhAj@bU|NHEL[p@gEFIJCt@VnEbCl@TLZ?`@M`AD\\dCrAfARp@Oh@_@Zy@NaADm@A_AIi@Su@Wo@{@eASo@Ae@DkAb@_IJ]ZApBZPPFLB`@WbD@v@Jr@b@jB`AtBXjAFr@@rBLxAXvB@tAI|@m@|CWfBq@dLWfDUzAs@tDSfBQlDWlNIzAKh@INq@p@Yz@[rCw@|Ke@bEoAnG{B|Is@`Dg@jDYpCMpBKvCEpCAbEPl`@HhDFvANrALp@XbAZx@zBfEXXl@RdBAfEu@lCBnBs@jDkBh@U~@E`A?VDRRL\\`@~ANXRNtEt@HR?Vg@`EDTnFtCV\\FTFl@?n@M`A[t@U^}@t@U^ERK`AKdCUlDIJKBy@EIHCPSvEa@dHFLJDnBVHHDP@TMzCsAhUKv@MPc@JuAFqJrAsEL}EnAcGGsL@sDRkBZgCn@gIbDcALYKW[Qi@?Yb@iDnBsQXmBAe@K_@g@g@kCqAqDeCi@m@kAyByA}CmAuDuA{GcA_GY}Bc@cG[iH@aSFoMI}GFiPIsCm@sHEoCJ{EJgPH}BP}Cn@iIxA_N\\gC~@eFPwAPaDViCR{CrA_T?aCMyA]qBw@{BO}@JiDZyCBeFEkAU{BMgA[uACm@BU^qA^y@Za@`@St@BbH`AhB\\fAh@vNbJfErCLGHQn@cEFQLG\\FbFnCp@VNX?f@MdAH\\|BjAlATv@S^WLSVgALmACkA[yA]w@{@gAOi@FsBb@_IFSJElCd@JLFh@UvC?dAFh@f@rB~@tBZjAFr@@zBLxAXrB@tAIv@q@lDSzAs@xLSfCU|Aw@jESlBO|CWdOIbAKh@INs@p@Yz@WxBy@rLe@bEmAjGyBxIs@|Co@lEYnCS`FItHPj`@H~EFvANrALp@VdAx@hB~AtCXXj@Tj@B`AGzDs@zC@|Ak@rEaCh@KlB?TLPV`@`B^p@TJbEj@LLBVAVe@lD@VNN~At@xBjAXZHPJl@@n@IdAQh@_@p@_Ax@U^GRKdA]fHGPKFy@EKDGNu@~NDNHDxB^HL@TEtA_@|GcAbPIVOJODcBHcKtAeELwElA{FG}L@}CPqBZaDv@}H|CaALUI_@c@Mc@Bo@^{CnBiQVgB@c@Ia@OWSQcDaBkDeCc@g@uB_EiAqCaAiDeBeJk@mDUsBe@gHUuG@iRH{LIaHDkPAoAK{A",
+"average_heartrate": 122.1,
+"average_speed": 6.798,
+"elevation_gain": 203.0,
+"source": "strava",
+"streak": 3
 }
 ]
