@@ -9710,5 +9710,21 @@
 "elevation_gain": 371.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 15500846152,
+"name": "Zwift - Z2 Cadence Changes on Knights of the Roundabout in France",
+"distance": 23658.9,
+"moving_time": "0:57:39",
+"type": "VirtualRide",
+"start_date": "2025-08-18 13:01:21+00:00",
+"start_date_local": "2025-08-18 21:01:21",
+"location_country": "Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd",
+"summary_polyline": "x`pcCqgcu^jAiDDqDs@uAiBy@eD_IsBYoND]OGUAeB~@s@l@kAd@yBViCBoCvFeGAuL|CYxA_AfDfAt@Dv@g@^aA?{@e@}AcB{CU_ARc@fEoDJg@Ge@W[iAQqAgBmBYaB}Ay@Dm@v@Bf@^b@rStNbAX`@c@IsAh@mA?q@a@c@eBEo@Ye@gA@oAdCwBfBgEnDyBpC{EJaAIo@sDcFAyAb@oD`@wApAeBzGaFdAuBd@}B?oA[aAuEeFMkATaBn@}Al@]vERlDo@|@_BViCm@{CuAkCm@g@_B[kBBwFbCmB@w@_@s@aAqBgFSeD^kCfCaC|CqAfBaCNo@LeC{@sDA}A}@_AUgAuAmCu@OmA`@gCvCmInA}@c@w@yBCk@j@y@Fk@Uu@s@Wq@Xk@jBwCvAqF|AqAQq@VwBnFwApFhAnC@j@wA~As@|EeBhASf@RnBtBjF@x@Sn@gAj@_EoAwAHc@z@E`EWv@_AVgCgAm@Bg@n@U~Bm@d@}@GcDqCs@AmJbOCl@PXzDlBj@r@Dn@}@vB@h@bC`BHj@Wd@yAv@Qv@R^lCpADh@Uz@uAt@wIIaCx@cBtBoDdA]^GjA}C|@C`EKh@cFhBu@bAOtANfAp@fAzEtCC|Dn@dAdPrC~CrC~Af@|IxAjKj@rA|@nBzBPx@OfC`@l@tRBp@XJxAKhAsFzF?hCYjC[dBq@rAaAt@?vBn@b@vME~BPdD`IlB~@t@xAKdDeBpFDhAb@x@tCrAz@EnDeAjBAlAXzAbAhAtCtBlBx@bBnD~CjAZjAKvB{@fEa@rAPfAM`H}BjDk@pD}AvBgB^w@LoAgAqE_@_@yAX]KWgCuB_EWwANs@p@o@jJiA`@w@BiA_@i@mKgG[_@Ik@zAeFTmDZW|BYPk@LuClCi@`AqAVsA@uE~@qBFo@c@oAu@iAiUaVcBcFsDyEUq@KaC^eGw@wF?}@hByE~AyCxAgBvA}@|Ag@hEFhCb@xChCN`AOvC|ApB}@~@C`@ZVpBNR^a@vBoAO_@REfCcCMWVAb@`CvACf@q@^Bj@h@LjA[T^]r@B\\d@VjADWtAHZ~BRDl@Sr@J^j@CjAo@j@u@f@E`CfEf@Cz@q@VD\\vB\\Tv@@?fARRXGv@sAx@~@ZKV{@ZHRl@\\DTYPaCV]",
+"average_heartrate": 113.6,
+"average_speed": 6.84,
+"elevation_gain": 147.0,
+"source": "strava",
+"streak": 3
 }
 ]
