@@ -9726,5 +9726,21 @@
 "elevation_gain": 147.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 15512837140,
+"name": "Zwift - Z2 Cadence Changes on Outer Scotland in Scotland",
+"distance": 20502.6,
+"moving_time": "0:50:29",
+"type": "VirtualRide",
+"start_date": "2025-08-19 13:13:38+00:00",
+"start_date_local": "2025-08-19 21:13:38",
+"location_country": "Portcullis Buttress, \u5317\u827e\u5c14\u90e1, \u82cf\u683c\u5170 / \u8607\u683c\u862d, \u82f1\u56fd / \u82f1\u570b",
+"summary_polyline": "opqrIrgz^nFTXtAC~Cc@p@_FJQrMq@v@_EFa@dBCnFV~B|CfFf@nCdBdERtJQdAa@j@kBYY~CWj@eC^s@|BUfCLfAb@j@~Dn@vCIr@h@l@pDJpKQtA[f@mDJuBxAuA`DYbEkBrBqF@m@dAc@Nm@g@_@}BkDoA_JCa@p@SfB_@`AyJpKyExIq@f@iAGaA}@uA{E}@uAqAYsDj@sAeAg@_Bw@yGyEgLe@iCGiB~@uIx@sBrAPXn@BhAWhAc@\\q@U{B}BiCzAc@q@o@yC[g@e@HsAlCo@NoAsAsCmFUuAIkDm@}@_Ee@sChAiA?aE{Ay@sB@qAXgAvC{CbFiAp@q@R}BOy@m@}@IaA\\aB`@m@j@Ax@p@v@dFjBhEdA_@lEuGv@e@l@T~AzBn@AhBgApApB\\DhBu@hDsCdAUj@b@dBtEz@\\~@qAtC_L|@gAdBk@n@}@l@cCn@mHf@gAv@q@dBD~AvD\\L\\a@V{BZq@vAk@r@uBn@S|@pAhCCjGpBfIhAdEE\\aB?yJUuA}DEgFvAs@w@Au^f@i@xHAVu@?_E^y@rOB`@ZNdA?hJUbAcJDeAbAgAgAqC?Ul@AjJNz@vTNh@n@HrACpB_@z@mF^ArJUlBoENc@h@QbABjI`@lAfC`Eh@nCbB~DZhIQnBc@t@oBUg@bEqBLe@f@y@lDCjBTv@b@ZxDj@nCIn@\\p@zCRbKMlBc@~@sDLaCpBeAjCUtDwAnB}FJy@jAc@Lc@Y_@_Cc@_@oDcAsHAc@b@{@|DuJhKuEtI_At@gAI_A}@sAuEkAcBqAOyCj@uAw@u@yBw@uGyEcLe@kCEiBbA}It@iBtARVn@BjAWfAa@\\s@U{B}BkBzA]?c@q@o@yC[g@e@JsAjCo@NoAsAsCmFUuAIkDm@{@iEg@aCdAqABiEaBa@w@QmAX{B`DeDzEcAp@q@T_CO{@m@_AGaA^cBb@i@j@@v@v@v@jFnAdDb@Xt@]pE{Gv@e@n@V~AzBzCiA~AvBlBq@rD{CbASj@d@bBnEv@b@~@cAdB{Hx@{B|@aAhBq@h@{@l@gCh@uGf@qAz@u@dBBxAnDf@TXc@VwBXo@rAi@|@}Bj@OfAtAzBI~FnBjIhAjE@Vc@JeA?eJMyA{DQmGlAa@gBBwK",
+"average_heartrate": 117.0,
+"average_speed": 6.769,
+"elevation_gain": 184.0,
+"source": "strava",
+"streak": 4
 }
 ]
