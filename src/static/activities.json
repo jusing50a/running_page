@@ -9758,5 +9758,21 @@
 "elevation_gain": 3.0,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 15536721690,
+"name": "Zwift - Z2 Cadence Changes on 2018 Worlds Short Lap in Innsbruck",
+"distance": 10000.3,
+"moving_time": "0:52:49",
+"type": "VirtualRide",
+"start_date": "2025-08-21 13:53:58+00:00",
+"start_date_local": "2025-08-21 21:53:58",
+"location_country": "Rennweg, Innenstadt, Innsbruck, \u56e0\u65af\u5e03\u9c81\u514b, \u8482\u7f57\u5c14\u5dde, 6020, \u5967\u5730\u5229",
+"summary_polyline": "}_p_HmvpdAl@RRBfA?l@BjTfBXCHEFMBO@a@Cc@iAkMa@uCEk@BWHOXOtAa@lB]XBPDtAx@d@NR@JCHCNUNi@RsAt@}KFe@HOJKv@[XS`@k@x@}ArAwC\\{@xAyFFIHAH@p@P^F`ATT@VCHEFKHa@@iAQuEU_C@WDUJOJKZQ~EcBr@[`CqA|CmBd@]b@c@xCqDR]HQHi@HMLGNCj@DZKlEmC`Ac@tGiBnHeBVO\\o@XQFKH]?s@k@mFGcA@cAXuE?iAEeAYqCm@yDQ{@q@cCYaBq@_Fm@qFeB{SWsDGaBCyA?gCBgBLcCFq@Jk@XaAp@qARi@Lc@Fa@BsACoAMqDA_ABUJIN?JJFPHb@HtAJv@x@`Eb@|AN\\RRVFRCLGLOHQD[?w@[wD?wAHmAPuAn@yDp@oCVy@Tk@PWLMRIf@GNKZk@V}@Dm@EeDOeIK{BUqBgAaG_@iCCm@Bi@Hg@l@sBn@_B|@mBLUNMRGRCt@@lAPfCl@v@Vv@\\r@f@r@j@XXZf@Zl@Xt@r@nCdBhInAtEj@zAVb@X\\b@`@j@Zr@V|Br@l@VlBnArAfAlAhAb@h@dAhB\\^XT~@b@dDhAvDzAzAx@fAt@|ChCbDdCRRLX@LAj@Iz@?TDNHHP?XIdCuAVET@LFZX^Tp@f@l@Zf@JxAF~@PpCz@xHhCtCx@d@V\\TrBjBb@Xh@V~A`@pEz@zA^n@Dt@Gp@QnC_Ah@Kf@Gr@Cr@BfAJl@LxAj@bChA~@p@jAdAxA|AbApA|@|AbAvB",
+"average_heartrate": 123.1,
+"average_speed": 3.156,
+"elevation_gain": 398.0,
+"source": "strava",
+"streak": 6
 }
 ]
