@@ -9822,5 +9822,21 @@
 "elevation_gain": 9.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 15605634010,
+"name": "Zwift - Z2 Cadence Changes on R.G.V. in France",
+"distance": 22897.0,
+"moving_time": "0:50:42",
+"type": "VirtualRide",
+"start_date": "2025-08-27 14:24:00+00:00",
+"start_date_local": "2025-08-27 22:24:00",
+"location_country": "Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd",
+"summary_polyline": "dktcColhu^vDnNfD|JxCrLMdA{E|FKfAzG|Lt@rCPfBDbI[vBaBpEoBzAe@x@ObIFxDh@fAzHlHxA`C`DnBp@fBNtB`@rAtJ`N|CvBTb@?zASf@aDt@GZRhBmApBaA~@UhBN|Al@b@hAArDiAh@Nn@z@\\jA@|@Yf@oAj@Sh@n@fCE~@yA`Cm@?mAk@yACe@Ti@`AuAHgBvAu@O{@kBgAEaBc@kCqAKm@Lk@tA{@L[?kBg@k@aCK[wBcA}@aGmByOaCoCj@mJCuGsDaD_A{ALi@Zc@x@{@RwBI_C}@u@?mAf@sFtDoBr@yDp@wDxAqCf@wAQ}Ed@gC~@wAEiEsDw@}AuBqBgAqC{AeAgAYiBAwAT}Cv@_ASaBiAWo@AiAfBgFFmDs@wAmB_A{AeEqAaCcBMgNBi@KK{B`Ay@r@{Ar@cFFcDtF}F?_CUg@oDSiN@c@m@N}BM{@yBgCgAw@}Ji@gHiAeDy@iDwC{OoCa@]Qk@NmCKk@eF_Dg@_AOiANkAn@y@fCs@`B}@Lk@AuD^]|Ba@J[Am@Xc@fBw@fAObBqBfC_ApIJxAw@Xy@Gw@m@e@yAe@Wc@Fc@hBiARm@Qk@eB}@Ya@Dm@p@wA@}@k@y@aEuBM]Ji@xIoNh@CdDlChANv@q@R_Cf@i@t@FlB~@r@CZUXgABoD^{@pAI`EnAjAi@X_ACo@sBqFSiBXm@~AeAn@wEdA}@Ti@Ao@kAgChAoEvAeDTiAt@s@bBLzFaBnCsAd@cBn@_@h@NXt@C^m@z@Bz@p@pBhAl@hImAp@a@|AwBrAc@p@\\lAdCThAv@n@@~Az@nDMlCYv@yAlBmCfAuCfC[`AIvA@zAPhAvA`Ez@rAt@l@`APdAGvEyB~AOpAFbAZd@d@|A`DXzABdAOdA]hAa@h@}@ZiBPeFMi@\\a@t@c@xBL`B^t@pDjD^lACrAi@zBiAnBaGhEeB`Ce@fB]fDDhAVp@tDfEtFlC~BBpFiAjB}AdAoCNqBw@_G?cAnAgDpByDrBaC~BiAzAQpETtAb@jC~BPdAOtC|AlB{@`ACd@XTrBNPX_@zBqAM]P@jBM^uBQ_@R@x@dBn@Zb@M^k@XE`@XVzA[XNUz@Ab@VVzAFUpAPf@bACp@PBl@Qv@P\\`Bi@~@eAp@H",
+"average_heartrate": 123.8,
+"average_speed": 7.527,
+"elevation_gain": 115.0,
+"source": "strava",
+"streak": 3
 }
 ]
