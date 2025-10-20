@@ -10110,5 +10110,21 @@
 "elevation_gain": 43.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16191639595,
+"name": "\u508d\u665a\u9a91\u884c",
+"distance": 18750.6,
+"moving_time": "0:56:02",
+"type": "VirtualRide",
+"start_date": "2025-10-19 11:57:07+00:00",
+"start_date_local": "2025-10-19 19:57:07",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "xe`fAep}y^`GjQE\\_AdA[|AgA`Ai@~@a@jA?p@p@rAx@rCj@d@xAQ~@mBdAEfAk@dAl@j@zDM~ADvAKReADWNO|@?nARb@tC~Bh@Rl@?jFiB^VFf@{Cd@a@TGPHRPHlASbEVhDoA|A{Az@}D~AmA`DcGPq@E}@[q@qBoBq@wCq@a@w@Qq@T}@jCoBdCg@BeBi@c@N_A`A]Fm@M_@]e@mAQoALw@|@cBl@c@vBo@nBRxB}BGo@iAeBWOuBFuBpAu@PeBCkCk@{BLkAViDpB_@j@SnAoAjAm@fAYbA?j@t@xAx@tCl@\\v@Cb@Uh@yATOv@?tAk@`Ap@h@|DMpA@bBQP_A@SLOp@CtARj@rC|Bl@Tn@?|EiBxAn@z@ChD}A\\c@f@kBlBaBvAoBNgBWkCqAqBwAmEw@q@eBk@cDi@qAAyHl@mAZ_Aj@s@|AsAtAOn@t@tCp@xEn@hAh@XxABRMTcAXYhIcBVLXhAZZdB\\lA@j@e@ViBIuB{@yAe@wAc@g@cD{AcBOkBFeC~@aB|A_@z@IbAFnAh@pBt@vA~@r@|Al@xBNjBk@dByCJm@Ew@o@aCqAiA_BS_BLy@b@k@|AE~Ah@tA~@bAjAPjAUp@k@^kABqA]m@qAq@oAKg@JkAvAWS\\mAt@s@~BS~A`@bAlAf@rCSbAyA`CiBl@_BGsCkAgAaBu@_DAeARaAfCgCrAi@`BMbBFfATpCfBpBnE?hB[`BQNo@HiCa@]a@WaAg@OgIdBWTQz@ST{@@u@U}@}Ag@eEq@sBCq@N_@pAoAn@{AdBy@lK{@zFbAbBhAjA|DjAdBRn@LfBMfB}@tAeCvB}@hCaD|AkGhAa@X?TLPrAQnETjBm@dBcAr@iAl@}CjB_B~CcGNu@G{@_@o@kBiBq@yCq@a@u@Qs@R{@hCwBjCe@?eBg@qBvAo@Ee@_@q@eBIcAPu@x@}Ah@a@xBq@xBPpByBEm@cAaBa@WyBHkBlAq@PkBAuBg@aACoC^sB~@yAnA_@dBcBfBk@vAE~@r@xAt@jCj@h@n@?j@O|@oBdAEz@g@j@Dh@d@h@xDM`BDpAOXuANQr@CrATl@pCzBlAZrFmB`Ah@bAD`DqAz@eA`@}AzAmA~AqBRyAI_C",
+"average_heartrate": 117.4,
+"average_speed": 5.577,
+"elevation_gain": 198.0,
+"source": "strava",
+"streak": 2
 }
 ]
