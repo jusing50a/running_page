@@ -10238,5 +10238,21 @@
 "elevation_gain": 1423.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 16342344279,
+"name": "Zwift - Z2 Cadence Changes on The Fan Flats in Richmond",
+"distance": 21847.4,
+"moving_time": "0:50:51",
+"type": "VirtualRide",
+"start_date": "2025-11-03 14:49:56+00:00",
+"start_date_local": "2025-11-03 22:49:56",
+"location_country": "VCU Human Resources Building, 104, North Belvidere Street, Carver, \u91cc\u58eb\u6ee1/\u91cc\u5947\u8499, \u5f17\u5409\u5c3c\u4e9a\u5dde / \u7dad\u5409\u5c3c\u4e9e\u5dde / \u7dad\u73cd\u5c3c\u4e9e\u5dde, 23220, \u7f8e\u5229\u575a\u5408\u4f17\u56fd / \u7f8e\u5229\u5805\u5408\u773e\u570b",
+"summary_polyline": "ylddF|uuwMBJAJM\\iBlDoK|SqAbCgAvBeBtDkFbKSTMFa@JQTg@|AaDnGMN{@ZWZGX?dACLKVcGlLwIbQwE~IELANDNFHJDLAJGFKr@_BfP_\\tEwIRUp@ORQFMH]@eAJ_@vCgG^m@JKNGNA\\FNDd@^jAnA`@ZxAt@xIxDdCjArAz@x@`@\\JNBN?LGJOJc@JoADSxFwTHi@@i@@yE?cFDiFAyNDkGISQG}AAcAEOEMIOCMFKJa@z@oCjF}IjQaDfGcBpDoFfKORi@NQNMTQp@Ob@cDnGSNm@RSPMZAL?~@CNMZcGlLgIhP}EfJMZ?PBNJHJBLCRWl@sAbP{[zEaJRUHEXAJERQFMJ]?cAH_@h@iArBcE\\k@LKLGNA\\FLDn@f@fAjAl@`@tAp@hInD`CjA`B`Av@`@\\JNBNCLIHMJe@JoADSpFcTJg@Bg@BoF?wFDuEAyNDkGKSQG}A?cAG]OOAMFKL_@z@_BxCmKzSaDdGcBrDmFfKQRID_@HQLKTW~@KTcDpGSNm@RIFQVG\\?~@I\\uGhMwHlOmFbKCN?NDNHHL@LEPWl@sAlPk\\jEgIZ_@d@GJERSJ[BO@cAJ_@f@iAtBcE\\k@LKNCN?\\FLFb@\\rAvA`@V`Bv@jIpD~BjArAx@x@`@ZL^BNEHKLc@PcBjFoSVmABi@@{E?aFD}FAeNFkGEWOMSA{A?s@EOC]OOBKJIL_@z@{BfE}J|RoChFcBrDmFfKORIFi@NONi@`BaDpGSPw@XQTKZAnAKZmGzLuI`QmEnIGLCNBPFJJFLAJGHKt@aBzOm[vEyIZc@JEXCJETSL]@Q?s@BQJ_@xCeG\\k@LKLENANB\\Jd@\\rAxA`@VbBx@|HhDlCrArAv@v@`@\\LLBN?LEJKLc@PaBpFcTPy@Bg@@qE?gHDcEA}NDaGISQEyAA_AEMA[OOAKFKL]t@oD~GsHdOmD|GoBbEaFrJUVg@LKFILe@zAeDtGSPs@VQRKXChAG^iF`K",
+"average_heartrate": 117.7,
+"average_speed": 7.161,
+"elevation_gain": 92.0,
+"source": "strava",
+"streak": 3
 }
 ]
