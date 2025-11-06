@@ -10270,5 +10270,21 @@
 "elevation_gain": 28.0,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 16363837463,
+"name": "Zwift - Z2 Cadence Changes on Jungle Circuit in Watopia",
+"distance": 16346.6,
+"moving_time": "0:50:08",
+"type": "VirtualRide",
+"start_date": "2025-11-05 13:56:41+00:00",
+"start_date_local": "2025-11-05 21:56:41",
+"location_country": "Usili, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "rdefAyx}y^ZtAj@nAzC~DlA`A~DjAvDtFhAz@bA^nHx@vE?vCm@jIuCzBU`C^vC`ApBJbCId@r@S`ADR\\^h@AzAe@zAZ~@b@D`@U^_@LyB@c@^Gp@Zj@dBz@fA~@zAjCZ~@Bv@i@|FV`@|AdA`@`AHv@i@~ANvA]d@cAPiDcAe@PkAvAG\\Pt@`@h@xA~@F|@\\|@SRkAc@k@VI^p@pBqAp@Mb@XzAvClAHd@AzBl@fCxCbCh@fAv@|B`DhAv@pA^TxBRlBl@nBu@jB@hAc@`AF|Al@XbAB|@p@~@j@N~Aw@nBBd@b@n@vBz@f@xBJtAQl@a@d@aA`@MnBh@LZEz@LXxCpAnAB~Au@rAqDHw@Uo@w@_A{CcBQqAJuBt@oBnAuAt@S|BO|BkAXg@Ho@B{AMi@gCo@{BkAg@BgBp@a@?gB}Ag@Qi@Tc@nAo@Ja@UsAkBaAOuA@i@RSh@Bb@l@xA{@~AR|A]z@i@`@kBEqCfAe@OwAmAeB_@gA_AOq@r@mBBa@SWgAc@u@aAToDs@kDPi@f@]\\CbA`@fBPlC~AdB]pBZnAOh@YH]GmAX_@n@MfAb@p@a@b@cA]mCUYiA[UcA[YaC[iDViU{H[[IoBeAg@[m@u@UgBMu@ZSf@HvA}@hAeAM}BsAu@@i@n@S~AXh@rAx@j@lAHz@i@bBNlAa@j@y@NuDeAoBlBC\\Rt@xBdBHVAb@\\z@OVOAg@[a@Cg@ZA`@p@|AEPqAn@Gv@Nv@VXfC|@Jx@GnAb@fC`@n@~BdBh@bAt@~B|CjAvAhBzBV|Bn@nBw@zADjAc@~@BhAV`@ZZbCt@|@j@J~Aw@~A?h@^x@dCl@^fBLfBMn@[r@oA`@IlBl@BxAPVxCnAnA@|Ay@rAqDDw@Uo@y@_AwBaA_@_@Q{ALkBn@gBvA}ArDc@|BoA\\gAF}AKi@a@[oB]mBgAi@?aBn@k@DkCoBo@Rc@nAo@J_@QuAoBeAQsABi@VQd@@b@n@xA{@dBRnA[`Ag@`@cBG{BdAo@BiBwAiBa@iAaAOs@r@mBBa@UWoAk@o@eAZqCu@mDV{@z@]fA`@dBP~@j@",
+"average_heartrate": 123.9,
+"average_speed": 5.434,
+"elevation_gain": 147.0,
+"source": "strava",
+"streak": 5
 }
 ]
