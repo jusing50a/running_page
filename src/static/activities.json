@@ -10526,5 +10526,21 @@
 "elevation_gain": 140.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 16737522572,
+"name": "Zwift - Z2 Cadence Changes on Cobbled Climbs in Richmond",
+"distance": 17601.8,
+"moving_time": "0:50:14",
+"type": "VirtualRide",
+"start_date": "2025-12-14 08:18:56+00:00",
+"start_date_local": "2025-12-14 16:18:56",
+"location_country": "General Assembly Building, 911, East Broad Street, City Center, \u91cc\u58eb\u6ee1;\u91cc\u5947\u8499, \u5f17\u5409\u5c3c\u4e9a\u5dde / \u7dad\u5409\u5c3c\u4e9e\u5dde / \u7dad\u73cd\u5c3c\u4e9e\u5dde, 23223, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "qdcdFtvrwMM^kF`KgNrXKVGXBZJTj@f@`CjCbBxAvAxAtA`AVLVDL?VMZc@z@yB|B{EdDqGpGoMjKeSvA_CbBeD|AuCnBcDTCRLzFfGLJPDNELO\\u@f@eANc@F{@?SKmAAe@PeAL_@j@iAbAgCvE{H~BiExBgEDOTiAz@_BhAgB`AeBhByCt@uAxBcDlA{A`QgMdCsCjAiAZOxBi@vBs@jAe@^UPSH[AMEKGIWA{A\\eBp@yDdBi@d@_ErEkAv@{@\\c@J_@DwDQm@@aAV_G~@]BICAQDKZWFK@UGOSMa@IYBm@LCCEK?QLI^MJILWNg@DELBTN`@d@VFZEPKHU?[AKMWcBmBWQMAMBQVY`AMTyFtKgBnDG^N^zBlBJ`@M`@iCtFOVQTWFUGOOc@i@c@a@wEeFwByBm@e@K?MDIHS\\c@fAk@jAsIlPu@rAO\\I^@^PXv@|@`JnIl@h@FRCTi@jAm@fAi@hAkClE{AvCyCfFwBfEIJIFI?_@Ma@Qy@w@cA_@cB_AkA_@eAKKEoAcA[SWEIBKFk@`AcFbKwFrKuNlYEN@b@DNHJj@f@fCnCrAjAnApAxAhAf@TLBN?LELIRYfAkCbCeF|CeGlGeMjKgSxAcCtCwFrC}ERKTJbGnGNHRBNKhA_CPc@DSB_AMcBBg@Nu@Na@j@mA~@}BvEwHjC_FpB}DPaAHWv@wAjAgB`AeB~AkC~@cBdCsD~@iA~PgM`CmCrAqAZMrBg@`Cw@fAe@^UPSF[AMEKIGUA{A\\eBp@{DdBg@d@aEtEiAt@}@\\a@J_@DuDQi@@UBm@PuGdASACE?MDK\\YDI@QGSUM_@IYBc@JI@IM?SJG^MJILUPk@DELBRL^d@NFP@XGPOBIB[CMIW_BiBWSMGM?KFQV]jAgH`NeAzBB`@RXjA|@n@n@Cd@wCpGOTSRW@QMmJaKuAqAIGKAKBKFYd@gAdCcJhQc@t@]v@E^H\\PTt@z@vIfIh@b@JLDPCRGP}BrEiCfEsAjCuBpD",
+"average_heartrate": 122.9,
+"average_speed": 5.84,
+"elevation_gain": 229.0,
+"source": "strava",
+"streak": 1
 }
 ]
