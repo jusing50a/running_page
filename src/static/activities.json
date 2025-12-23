@@ -10574,5 +10574,21 @@
 "elevation_gain": 13.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16811633135,
+"name": "Zwift - Z2 Cadence Changes on Innsbruckring in Innsbruck",
+"distance": 20562.5,
+"moving_time": "0:51:46",
+"type": "VirtualRide",
+"start_date": "2025-12-22 14:14:21+00:00",
+"start_date_local": "2025-12-22 22:14:21",
+"location_country": "Franz-Greiter-Promenade, Saggen, Innsbruck, \u56e0\u65af\u5e03\u9c81\u514b, \u8482\u7f57\u5c14\u5dde, 6020, \u5967\u5730\u5229",
+"summary_polyline": "gap_HgwpdA`Bn@|BDnTfBb@MJ_@Au@kA{Mc@yCAm@DUXUxAa@rB]f@HrBfA`@BTOXo@PsA|@cMN]JIv@YVUvAeCvByEtAqFDIPEv@VtB\\^GNYDs@AgAO}DU}BFk@HOf@]tFmBtBeA`DmBbEqC~AkBXAJLBRXnG^|ELfA`@rBVxBlCtc@RjBV~Ar@fDp@bCDZ?\\KX_@d@g@ZsB|@mA`@aDn@iBIa@Hy@t@yBlD_@\\o@ZmCd@_Dx@eANgABmDO{AHuA^_E~AyC|@mK`CS^An@VvDH^PVDNOZ{A~B]v@Gj@DzAGd@]n@aCnCmGzK_@`@IIE[F_ABwA]oEYoB]cAo@g@kBc@o@a@w@mAgCyFo@u@]Ug@MmBFKGESBo@Hu@d@sBPUj@c@z@mAPa@De@Ei@[aAu@kAgAgAyA_A}EkC{CqBiA_As@aAyBiFaDsFoAkDiDeLq@kC[sBMmA@w@JSd@DrChBx@t@b@t@hNnXpCbF~B`DtAdBfBdBjDrCdCxAr@VhCFvTdBLEJODSAk@iAsMe@kDAs@FU\\SvAa@pB[j@L`Al@l@TXBVKXi@PkA|@mMFSV]n@SZUd@o@~@gBjBkEzAyFTGfDt@XARUHc@?oAQsESoBDq@HQh@_@lFiB`CkA~CmBtDeC`@_@lAyAZDFPZvGZnER|A\\fBXzBlCxc@PhBX|At@tDr@bC@\\CZKVa@b@e@XsB|@iA^_Dl@eBGo@Nu@t@_CpD_@Xo@X{B^mD|@eALeABmDOyAJwA^}D|AwBp@gEfAgFfAORCL?p@XtDH^PV@NcCbEKj@D~AIp@a@r@_ClCoFnJu@dAIAIUHqA@wA_@qEYoB_@_Ao@e@kBc@o@c@w@oAeCwFo@s@{@a@kBFWKCk@Hs@TuATy@~@w@z@qANa@Bg@UiAs@qAgAmAyAcA_FmC_DoBsAiAu@cAoB{E{CgFiAuC}EoPq@}DIsABYNQd@JvCjBv@x@vOrZbCjEzB`DtAbBnBjBxCfCn@`@nCvApCFfTfBZGHKDQ@i@kAaNe@aDCo@DWZW|Aa@lB]f@HpAv@h@P^?ZYPm@LcAx@mLHe@R[v@YXSxAeCnBiE`BmGVEr@TpB\\\\CT]Dm@AqAOyDUeCBUN_@b@YrFmBtBeAbDkBxDkCf@e@~@kARIJBFJBNVzFZlEP~Ab@zBPzAf@jH",
+"average_heartrate": 124.0,
+"average_speed": 6.62,
+"elevation_gain": 168.0,
+"source": "strava",
+"streak": 2
 }
 ]
