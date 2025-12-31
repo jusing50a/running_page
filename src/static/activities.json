@@ -10622,5 +10622,21 @@
 "elevation_gain": 46.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16884656749,
+"name": "Zwift - Z2 Cadence Changes on Hilly Route in Watopia",
+"distance": 19269.0,
+"moving_time": "0:52:57",
+"type": "VirtualRide",
+"start_date": "2025-12-30 14:02:51+00:00",
+"start_date_local": "2025-12-30 22:02:51",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "jq_fA_v~y^M{@@}@^uAlAmA|EeDn@}@@]Oa@mCsBOa@DWj@WpAKvEEZJFNQlAU`@QBe@KO]HeHd@oAVCV^~B~If@b@j@@^c@@u@_CiJIu@D]xEk@bA]rGoFlB_Ar@GfGHhCTpAd@dArAd@vB?p@K^gCtCk@pAGfBNvFQ|@g@FgC{@w@Cu@^kB|By@h@cNjBoB`@yBt@]VQ`@O`B@fCZbAVJt@CdF}AbFy@dD[lBEfBRfEjAdL`CxAf@b@?^OZk@rAqFl@cAf@MlBHnC]pA?|BNdA`@Pf@PjCvBvCNr@Cb@QZkBd@[ZDh@`@tAG^UVm@GwCaDo@][CWJYb@yAtEWRMAi@k@_B{C]YYC_KfGs@bA[EOSiCeGiA}Ak@W{@KaCP_@LW\\DtAf@pAtBnAC^sAnAcAl@gAeAeAWWwAu@cAs@QaAXe@x@En@NThAd@Hb@K|@JV~Al@TXITw@h@Lz@GHcBb@aAAi@[k@}@yBeGeAcByAw@oH}B_CsAeB{Au@mAy@}BYcBAwANu@f@{@pGqEr@cAAg@Uc@iCkBI_@BUb@ShBOnCGjAFNP@XMn@[j@u@GOc@HeHXy@ZUTNPd@xBlIn@d@l@ITc@As@}B_JIs@B_@bB]rBQhA]rGqF|Aw@bAMfDB~EXdBp@bAxAZzAEpAYh@wBzBi@pAEtANrFI`AMPg@@cCy@w@Cm@ZsBbCy@f@sMfBcCf@wBv@e@f@UtBBfCNl@NRVFt@EdF}AjEs@dD]dCEvBXtDdApOhDb@I`@i@xA}Ff@}@l@QlBHdE_@pCNfA^Rd@RnC~BjDFv@M`@]RmBj@Ah@d@xAE`@SX_@?[MoC{Cq@][AWNWd@sAhEUVM@m@i@gBgDm@UiKjGu@`Ak@g@aCyFeA{Am@Y}@KgCR_@NS\\Ah@P|@^z@rBjA?\\uAtAkAj@_AaA_AS]yA{@kAo@M{@Te@r@Ix@LRnAj@D`@Kv@L^zAh@VXGPy@l@H`A_Bd@gA?m@_@m@aAiBgFcAkBqBkAwGoBsD{B}@{@o@_AoA{DM{BZ{AnAsA~EeD`@c@Pc@A[O_@iCoBO]?W`@UrAQrCI|AFRP?`@Sv@UZc@A[U@iE",
+"average_heartrate": 122.8,
+"average_speed": 6.065,
+"elevation_gain": 224.0,
+"source": "strava",
+"streak": 1
 }
 ]
