@@ -10638,5 +10638,21 @@
 "elevation_gain": 224.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16925243716,
+"name": "Zwift - Z2 Cadence Changes on Roule Ma Poule in France",
+"distance": 20047.2,
+"moving_time": "0:53:27",
+"type": "VirtualRide",
+"start_date": "2026-01-03 15:13:50+00:00",
+"start_date_local": "2026-01-03 23:13:50",
+"location_country": "Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd",
+"summary_polyline": "`otcCgchu^wJs_@BoAdAkDAmCg@yEmDaTWmEa@gMQmAUUa@G_E|@iA?o@W_JeJwA}ByDiIoAuAuDeD}BiAwIgBaFeBeBKg@PkAzAFZ`A|@HPCRQFwCYW@KR\\d@nGpCLTAXc@^qEJyD\\SLCVd@Z|M`DNTIXSP{FlD_DvA_@\\ETLh@f@TdN`Bn@VAZWLgF`Bc@XHj@tC|Db@zB@lAIr@oA~BeAdAeB`AuA`@cAFuA]mE}Dy@a@_AC_Cj@s@Gi@_@]i@c@_B@qAI]q@c@WkAkAcCm@_@i@FkAj@y@tAu@n@eAJwEbAeAAw@m@Oy@]s@Ak@j@w@Hk@Mi@m@c@[@c@Tk@jBsCtA{FbBqASe@P[^[tAgA`CwAlFFh@~@bB@x@OXaAr@y@hF}A~@Yp@@h@RbApBhFBv@Qn@]\\o@NuDmAu@Ce@Je@v@EfEWt@[Rg@B}BeAw@@_@d@WfCi@f@c@Be@MyCkC_@KYDi@n@cIvM?l@PXzDlBj@r@@n@s@`BIh@^r@hB`AFl@Yb@yAx@Qb@BRT\\~B`APd@O~@i@l@y@TeHQo@HaCz@eBrBgANeBt@[b@EfA{B`@a@XMh@HtCIh@_Bx@iB`@m@^m@fACvAVbAh@v@zErCFj@MnCXr@^X~OnC|CpCzAd@rIxAvJd@h@JfAv@tBbCLz@QtBNh@VNnNAlCDd@RJx@GfBsFxFCtCYfC_@nBi@dAaAr@Gr@FrATT\\B`NCnBNpAlCpApDZ^lA\\b@l@Tv@KbDcBzE?jA\\|@bBhA~@R~@GzAo@lAUlB?bAThBpAz@`C~B|Bp@xA|@j@bBjBv@`@jBClAo@h@MrEa@rAP|Ck@tDyAtDo@vBu@rFyDbAa@r@B|B|@bCFt@U^u@b@YvAS~C|@~GvDfCBjBIfCHbCk@`O|BrGpBj@\\V`@FpAPb@bCJ`@`@Hp@G|@qA~@UZIl@Ll@v@h@zBt@|@T`A@|@lBXP^@\\MlAkArAEn@gAZOpA?xAl@p@An@u@p@{A@{@o@gCRa@jAi@\\g@AeAa@uAm@u@s@SqDhAcABg@[OgABgALq@`A_AnAsB@e@UaAD[TOhBS`@QNYH{@E}@_AcA",
+"average_heartrate": 124.8,
+"average_speed": 6.251,
+"elevation_gain": 154.0,
+"source": "strava",
+"streak": 1
 }
 ]
