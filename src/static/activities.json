@@ -10702,5 +10702,21 @@
 "elevation_gain": 33.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16996278321,
+"name": "Zwift - LSD on Big Foot Hills in Watopia",
+"distance": 50089.5,
+"moving_time": "2:01:32",
+"type": "VirtualRide",
+"start_date": "2026-01-10 02:44:30+00:00",
+"start_date_local": "2026-01-10 10:44:30",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "zu_fA_ybz^cCw@}ByHn@wHkBuGfE_@f@oF|B_@~D`B\\pCzBr@_AfDh@fAzIOnCkDkA{EjDmEgByIuGyHpAeFbGaEKaE_EkF~BgCKyClIaTd@{Eu@wBmH_DcA_FlIsSvCu@lEl@tCeEnGmA`@cEaDiFhByBrBRnHhKrBw@`B}EfDtAJ|EbD|CaE~DuA|_@tF~IxFj@bM}CbBr@rAlRMrCcChDjAvKjNzB~EnHlFoL`Ba@tBrA`@pChFXpBrDSrGwL~G{@~DcEzCj@rDlBpAGvBgE~CyA}AiBALnFcGh@wEfImA{@jAyBa@gBrAkA]eA_F{@{@x@a@nDwBoEhAsDc@qHdEX~AiBsAsDcI|AP}GaCq@yIxEiIw@yBtCiIjDbIxBbDwAlCn@o@rAuFhAcGRxFbCtJYnBfAlC~FkEhJgH~@eDwCyA{DgCh@eBeEiApByHSfCfEg@n@cDiAi@mDyHYe@vA`EDkElCtDvAQjErDdCaFdDk@zCkB{ADuEkCs@cC~CrBxGeCtFcBsBjAuCeDrAi@iDcEpDqI[eAbCH~DxDbHz@lG]fJwErNxCfHa@rGxAlLnFLY~BkAm@HcHv@mA|C`K~A\\TsAeCyLvGgAlKuHdNd@xCbF_EvHOdLcF{@{EfEoUfEy@jCTnErXiDpYhGxDmJbJg@|Et@d@zD~BlDQrAgCfAfAlD`Cr@eDv@`AjBmH@wHfIwAnLd@|PmArFmDcBgAqDmB{@}EdH_Gr@uA]aAoDhAuC~GaAnByB_CkDeGlBwLIuDxBsDxGMhBjC~FzCwBfCq@tAn@^nJeBd@SnCpFzDhFmB`Cp@`DiAfHkJBuFaEaJ{HuBoJh@wCdA{CtEhBjKnCdBdBsBzH_B|ApBfERj@}EiCoFiDaBgEIgGfEK|C|AnEfHrBhEmEw@kFqDoAiDzAQfDfCrCzCo@l@eDkDqBmCbB`@aChEa@jCtCR|BoAlC{DpAsFuCw@cInGaEnI`BpCzFe@hE}DOaBuBaI`BeBnBeC}AeBmK~CoEpDaAxI_@vHhCfD`IHrEwGpJaMdErG\\rG}C~@_ElGcJCcCwDcHoBq@}EhHiCg@iBtAuAYcAoDhAuC~GcAhBiDgC{BuFlBiGo@cHz@cHcTlBqBbFjByCgJeB{B_P}GuDaIXmE|I_ImDcEbC}AoAaL`@mGyCuGxEcO\\gJy@cGqDsG_@kDlAgDxIZrDqDb@hDbDwAiA`DfBrBrCyFyBgG|BqDjCn@KtEz@bB~@Ih@{CbFsDoD}BJqEqDsAlEkCoESj@_AlHVn@tDbDdAr@}@gCeEfH^lAuBdBdEfCi@rAtDhD|CrH_A",
+"average_heartrate": 143.2,
+"average_speed": 6.869,
+"elevation_gain": 552.0,
+"source": "strava",
+"streak": 1
 }
 ]
