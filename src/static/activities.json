@@ -10734,5 +10734,21 @@
 "elevation_gain": 40.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 17023273135,
+"name": "Zwift - Z2 Cadence Changes on The Classic in Watopia",
+"distance": 18841.8,
+"moving_time": "0:51:19",
+"type": "VirtualRide",
+"start_date": "2026-01-12 13:56:31+00:00",
+"start_date_local": "2026-01-12 21:56:31",
+"location_country": "La P\u00e9rouse, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "~uafAkuzy^lChDf@|@`@pA^nBJjCJp@f@dAjApArB~AjDpDf@Td@Hz@@fAS~B_A`BeAXGRDJLNd@f@jC~@vDt@rBr@vA`AtAbA|@lAl@zAZtAKf@Sj@_@rBsB`BoB|FcEj@k@l@_At@qBb@eDn@eDjAaDb@oBFy@?u@Km@]m@_A}@yAw@mA[aBS{AIcCAuH^s@CWWEc@b@wC?eBQaBUk@{@i@cCo@_DoAkDgAy@Ie@@uFfAmADmAMoHuAaCUeBAaBLqAX{@d@m@t@Y`AIfAHrA\\~Ab@lAjAxBvDdFb@x@^lA\\jBRpDLd@^n@jArA|@l@z@t@vC|CXRl@R|@F~@KpCeAhBkA\\CRHXr@`@|Bx@fDn@nBh@lAdAbB~@bAdAn@rAb@r@Fr@Ep@Qh@[zByBjB{BfGiEjAaBt@oBd@iDj@_DjA_Dd@wBHeAEw@Qo@e@m@iA}@eAg@kAYyBUgEGuH`@s@ISYCQBe@\\mBBeBMcBSm@MQ}@g@cCm@_DqAkDeAy@Ge@BcF`AoAHkAKmI{AsBQeBAaBLqAZ{@d@a@l@]~@KtAFdA\\~A`@lAbAnBnBrCnA~Aj@bA\\lA\\lBH`CFj@Pd@\\l@lArA|@l@bC|BnAvAZPj@P|@FfAOhCcAbBgA\\ERF\\z@^vB|@tDn@jBf@fAjAhBz@|@nAr@jAZr@Fj@Ep@Qh@YdBaB~BqCzF_Ej@k@d@q@v@oBpAcIV_A|@}Bb@oBFw@?u@Mm@[o@aA}@yAu@kA[cBS{AIcCAsH^u@CWYCc@b@wC?eBQaBYm@{@g@cCo@_DoAkDeAy@Ie@@eFbAmAHmAI}H{AcCSuAAcBH_B^{@d@c@j@]~@KfAFtAZ~Ah@xAz@`BnBrCxAjB`@x@^lAZjBRjDPj@^l@hAnA`Ap@dC~BnAtA`A`@|@FdAOfCaAhBiAZGTFXt@|AlHr@pBr@xAdA~A|@|@vAt@pAXpAEj@Ol@]xByBdBsBxF_Ez@}@l@gAb@mArAgIV}@v@qB^}AJw@B{@Is@Si@e@k@q@i@oB}@wB]wCO_D@sF\\{@GSWC]d@_D?gAEgAKm@Qi@a@]g@UmCs@kG_CsAWaA?cFbAwAHqAOeHsA}DY",
+"average_heartrate": 128.2,
+"average_speed": 6.119,
+"elevation_gain": 193.0,
+"source": "strava",
+"streak": 3
 }
 ]
