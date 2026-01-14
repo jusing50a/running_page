@@ -10750,5 +10750,21 @@
 "elevation_gain": 193.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 17034855950,
+"name": "Zwift - Z2 Cadence Changes on The Highline in New York",
+"distance": 15082.2,
+"moving_time": "0:50:10",
+"type": "VirtualRide",
+"start_date": "2026-01-13 13:19:58+00:00",
+"start_date_local": "2026-01-13 21:19:58",
+"location_country": "East Drive, Manhattan, New York County, \u7ebd\u7ea6;\u7d10\u7d04, \u7ebd\u7ea6\u5dde;\u7d10\u7d04\u5dde, 11025, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "kw}wFvukbM\\b@j@j@pGdFjIjFbEjBbIfCtDpAjB`Ap@p@b@bAJlAKjBa@lD]l@e@Pi@A_B[i@@SN[l@Sv@Ex@B\\HZNR~BzAv@dAn@hARd@F`@?~ADf@Rd@VTfAZ~B^hAHzBS|@U\\QRa@Ty@pBcJd@sAj@q@t@c@pAc@l@C|AVnBn@fBx@rC|AxFnD|DnCrDlCrDzCfAhAb@l@Th@Lr@?\\G\\KXuBhCQZKb@Dj@\\pAt@tBNbAAx@k@`DUxCAh@DRTXnDt@h@?r@YbB{Ad@Y\\Gx@@TGVUXi@fBwE^u@b@_@l@UV?TNpA~Bb@`@P@TQn@yARWVG^Ap@Jv@\\rCbB~@x@^l@Nj@Aj@O|@s@pBkC~FwAxEaCfJkA|De@lAw@vAg@n@s@f@_@F}@Ew@UeB}@mAw@q@s@U_@Me@?k@Fg@VkAv@}BNYTQ`Ao@L[B_@Ea@c@gCAe@Be@Hc@\\cAlBaE^eAHc@De@Cc@M_@e@m@{@o@WASHg@z@a@^cA@q@PoBbBm@^[D[C}B]w@[M_@@e@PeCj@_DHgAK}@}@oC_@wAAQHa@Ra@vAgB^k@HYDw@Q}@[u@w@_AyAuAgJcHqFoDwD_CoCwAoBy@eBi@mAOq@BmA`@{@h@g@l@Uf@Ux@uBlJUv@YTkBd@}@Hs@A_De@yGyA_FsByA}@i\\}UsDkDqB}Ag@]k@UeAMQOMYEm@@oAJ_@PUp@SvCQ|@Qd@Yx@oA|@e@l@KbAPRINS~@iB`@WPC`@NzGlEhCpApBv@zKjDtCrAh@`@^f@Rj@Ln@@l@Cv@i@zEa@p@[L_@?wB]i@Fa@j@Ut@I|@@\\F\\LVbBbA`@Zn@z@v@rAZbA@rBD^HR`@^jA\\bC^jAF~BWn@S\\SJO\\oAlBsIb@uAZc@^]`Bu@l@Kl@BrBb@bC~@lE`ClHvErHnFzDdDfAjA`@r@VfA?^GZ[l@mB~BMXG\\Dj@\\nAt@tBNbAAx@k@bDWxC@j@DRHL\\P~Cj@h@?h@SjCyBZIx@@\\GVW\\o@`BmEZq@V[r@]ZAXJxAjCRTNDPAPQh@mAT]ZKf@?",
+"average_heartrate": 119.7,
+"average_speed": 5.011,
+"elevation_gain": 274.0,
+"source": "strava",
+"streak": 4
 }
 ]
