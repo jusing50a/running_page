@@ -10766,5 +10766,21 @@
 "elevation_gain": 274.0,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 17047686483,
+"name": "\u665a\u95f4\u9a91\u884c",
+"distance": 12021.3,
+"moving_time": "0:50:09",
+"type": "VirtualRide",
+"start_date": "2026-01-14 14:19:31+00:00",
+"start_date_local": "2026-01-14 22:19:31",
+"location_country": "Graciosa Bay Ward, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "tkq`A{uhs^SeA@WHSd@[rBq@hAsAf@M~AEzAUn@?b@R~@rAf@b@bBbA`ARPPHb@@z@YlCBTHF|AX`Af@`@JjCWVILQFg@?q@Ii@OWk@c@k@SKU?UVuACW]_AC]Le@XWd@G^D`Ab@TBZUn@cAVIZR`@`AXFTGtAu@tB_@rCLd@CTS^oALSjAWBQKcAJQRGZ@VJf@dALLz@Gd@Dr@Td@d@N@\\UL[IKq@e@GUAa@BUJUb@YfCAPJB^CtCFRPHf@Ad@MlDcB`@EXHhAjAfAPVJLPC`@y@hBANDLLHR?|@g@n@Kv@Dz@XXVHVDfACl@Pf@v@j@pGtDd@h@?\\Sh@YNgAW_BTc@CkAqAw@s@OYYgAKKMA[HUTGl@D|@i@bAO`AYXu@Ti@CQKg@s@Oi@Gk@FyASg@QKk@HMNCdAOzAEVMRWBSGKSIgAW{AMMUCSDGP@hBCTKPQHS?w@]QHARj@lACVOPUJGTBt@SvCLfADxATd@z@jArAv@PNLV@XQhBDXRRpAZTRf@nACZMVsB~C{AnBS?iAy@s@Ww@O}C[_Bg@qAm@eBkAq@eBaAu@}@e@_BBe@K]US]Qs@[k@c@e@_Aq@]e@Ui@Iy@IKwAEmAg@]CiAXYPSZ@b@VdBK`@k@t@GN?PVXlAp@XXDPBv@FNnAfBPr@@b@Eb@O`@[Va@Jc@KmAq@a@?k@VGL@NnA|AVn@D`@GNMHeARm@\\QAOIq@iBMMQEe@Jc@P}@j@UX[LeE^QSk@}BOkCIc@M_@a@k@M[@UReAs@kAKg@Fa@Vg@?_@Uk@i@s@u@cEDs@f@}A?aAK]OOqCaASOO[Ke@E{@DeEg@{BAc@JYTSbC{@z@gAVOb@I`BExAUp@@ZPx@nAh@d@hBdA~@RLNLf@@bAY`CBVTLlAPpAn@b@DjC[PMJc@?oAOg@m@i@o@UMU?WT}@@[c@wAA[Ng@^U|@?`Ab@TBVQp@cAXMZR`@`AXFVGvAu@nB_@pCLh@CVUh@_BRKx@MBQKeAJORG^BRHr@pANBn@I`@Dr@Tf@b@LB^WLYGKw@k@G]B]Rg@TQRA~B?LHB\\CxCFNLH\\@h@KvCyA|@Sh@P`AbAz@Lb@RJRI`@",
+"average_heartrate": 128.6,
+"average_speed": 3.995,
+"elevation_gain": 240.0,
+"source": "strava",
+"streak": 5
 }
 ]
