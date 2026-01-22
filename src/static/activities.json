@@ -10846,5 +10846,21 @@
 "elevation_gain": 105.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 17128041531,
+"name": "Zwift - Z2 Cadence Changes on Sea to Tree in Makuri Islands",
+"distance": 18380.0,
+"moving_time": "0:50:40",
+"type": "VirtualRide",
+"start_date": "2026-01-21 14:01:31+00:00",
+"start_date_local": "2026-01-21 22:01:31",
+"location_country": "Graciosa Bay Ward, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "fkq`Aeyhs^|CuAvAyAjGc@jClCpDdBL~AYjCF\\bB\\|Ar@pCWd@[DcB[{@_BgAVmBe@qB\\y@dAK`Bh@hAwAXK\\T\\|@ZHjB}@pB]|DFVSh@aBlAYGuA\\Yt@Lr@rA~AAjB|@l@q@}@u@Gu@Ni@j@Y`C?NJ?lDN^bAClDcB~@KzArAbANf@\\Ed@y@lBL^^?dBq@bAH~@^Vn@JhC~IxFTb@Q|@YPkAW_CPcCaCm@gBYKq@d@?`Bi@fAQbAm@`@}@Je@We@w@QyAFcAQi@g@Oe@V[|De@T]_@e@eDg@KS`@G`Ce@Nw@[SBGRl@nAAVo@t@QpEPlCPh@jA~AdBjAFr@OjBNVhBn@~@bBdEpCR@v@y@R?xF~DB^uAbC`BtBa@b@{@Zm@Q{BgBI[XcAEe@kAiAsBmAi@Ig@LcCdCmBkAq@\\gCuA}Dc@_Cs@cDmBu@gBqAcAq@[aB@w@WgAaCqBiBi@eAAoCdAoAG]c@_@mBc@eBD_AVoA`AoAXu@rAs@Dq@UO_@HuBgAkAKk@dAgJCeBMYgAYyBuAeBuBs@EyEb@wAvAwCjAMb@j@`DG|DJpAd@r@fC|@f@l@?nAo@bCv@jE`AbB[pAC`@|@bBOfBz@bBTbDx@~DHxCSdC@`AvClJ\\LfDcApDzJpD`H`@VxAAnC|BfCKh@LvAxD`BxAz@?nByBfAa@nCWnAd@b@|@N`D`B|@Xz@OjBoBnAk@`C@z@Ph@d@l@r@\\~Bh@zBdAvE_@|APx@p@j@nBnD~@lBtAj@LbC_@~D?vAw@bAqBjCsAx@MhAl@BtBNh@Xd@|@`@p@@bBg@t@i@l@Av@^Lz@\\d@dBr@rBsAdACtB|ArBt@`BnAj@E~As@|A\\tBbBf@|Bh@^vCA|Bg@fACtAFjBh@x@KPW?{@gAaCSaDe@m@sCoAc@q@WyBf@yD_@w@qB{B?a@Tk@^e@v@]Hm@Im@qEmEiCmEs@]oG_A{CgDIw@RkAo@eBOyALm@fAkB@a@UaARiBeAYeAn@aAHuB]i@s@UgCc@iA_A_AkAk@s@Jo@n@h@hBEZo@\\y@@mAkBqBQwCmAw@y@c@sA_AkAJeAl@a@`DvAnAGnAy@@gA",
+"average_heartrate": 126.6,
+"average_speed": 6.046,
+"elevation_gain": 193.0,
+"source": "strava",
+"streak": 1
 }
 ]
