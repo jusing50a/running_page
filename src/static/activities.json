@@ -10862,5 +10862,21 @@
 "elevation_gain": 193.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17139264588,
+"name": "Zwift - Z2 Cadence Changes on Mountain Mash in Watopia",
+"distance": 15720.4,
+"moving_time": "0:51:16",
+"type": "VirtualRide",
+"start_date": "2026-01-22 13:35:06+00:00",
+"start_date_local": "2026-01-22 21:35:06",
+"location_country": "Usili, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "|xefAoc}y^cBoCu@w@{@]sBa@e@Yo@k@eAkAkAeBo@qAWiAIkADkARu@v@iBJe@?{@GaBFy@z@}Bd@oBz@{A\\Mr@EVFLT?f@Kx@{AlEQdBHt@^l@l@h@f@F\\]b@cBb@wCNyDToA^cAbAuBr@y@fAWb@?XJLPBVMxA[bAgAdB]t@[bBCrAHn@Vd@`BlAr@lAPHVCf@c@n@eAb@mAToAJ_DAeDSwCJsA`@yAf@cAb@a@\\?^V^h@Vl@Fd@Cf@_@xBa@bE@`AP`CGxBH|@X|AXl@p@Vx@AZMRUD[?mBDy@bAmFFeEJqARoAXy@r@aAt@m@f@Ql@B`@XFd@WtBm@zB@b@Tl@\\\\b@CpAq@v@}@|@cBbAsC\\oAh@gDTy@`@c@fBm@Za@Dm@UyBF_AvBsKnBwG~@wBjAeBnCaDb@]h@UhA?tCp@zDKlA^d@h@LV@\\Gv@Dx@l@lCr@hAl@d@t@ZpBd@z@AtBQx@Fb@f@z@pCTX^R`BJhGO~Cd@l@B~@MtAg@pA_Ap@cAj@sBRuBCs@Ym@cB{A_@g@U_AFa@`BoATi@VmB`@g@^YXK`@?^ThAlAj@PVAj@UjBeAnA{@n@s@HU?Us@cGEeATu@rAiBb@eAN}@FiAAq@Kw@[s@yBgC[i@IWCq@VeBAs@Wm@gAmAk@eAg@e@WKoBW[KOU?uBK[SS}DsBaC_C{C_C}@e@m@MgALuAr@qBj@{@b@y@jAaAlCKr@OjCSt@o@^aC`@iBdAo@@o@I}@]c@]Qk@CoD[m@m@YcCO{KDo@Hi@X]`AE|@VvEp@vHApAS`EFv@p@bCJv@Kt@y@~BQVWJw@?qA[e@k@Ys@c@mBW_JC]MYq@Wu@BWL_@f@Ql@En@V~ABn@On@k@|@y@r@gA`@q@L[@WIa@i@Ss@A[LqAAiCEw@Oq@QSgA[g@]qCyEeAwAkEiDyDqBqEqAiFm@iBEiBB_Hp@kC`@cB`@iDhAcAn@e@PmCAe@`@Qn@?ZHVv@~@LV@\\ItAHZfB`BHZ?\\EZMVYL[?[Ik@g@w@cAUS[I[Hw@bAg@b@uAp@gDjAcFlA",
+"average_heartrate": 131.9,
+"average_speed": 5.111,
+"elevation_gain": 382.0,
+"source": "strava",
+"streak": 2
 }
 ]
