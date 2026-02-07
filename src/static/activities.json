@@ -10910,5 +10910,21 @@
 "elevation_gain": 4.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 17306347266,
+"name": "Zwift - Z2 Cadence Changes on Two Bridges Loop in Watopia",
+"distance": 19600.8,
+"moving_time": "0:50:13",
+"type": "VirtualRide",
+"start_date": "2026-02-06 13:18:53+00:00",
+"start_date_local": "2026-02-06 21:18:53",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "zp_fAk{~y^I~AL~An@|BlAxB~AvAnC`BjHzBtAt@fAdB`CrGl@x@x@XnAInAa@FWOo@x@i@FUWe@}Ai@KYDwA{A_ADo@b@s@r@Wp@Nr@fAXvA`ARhAfApAm@vAwAAi@oBgAYi@WeBF_@\\Q~BU~@Hp@XlAhBxBdF^d@TDTKf@w@zJgGp@Z`B~Cn@h@\\GRYnAaEj@s@|@XbDfDv@FTSJk@i@yBRWpBg@Ta@?u@Wy@kBcCOiCUm@kAg@{CQeE`@oBIo@Pg@x@uAzFUb@c@T_Ck@cLaCwDeAwBUgCF}Dd@kDh@aF|AcA@Yc@K_APaEVi@tAi@NSGmDdAsBJ_@Ka@u@m@]o@yBqISS[Ac@l@Ov@E~GHVh@TVA^c@TwAIQe@QcFDeAJo@TI`@J`@nCrBN^Ab@m@t@sE|CwAvAUf@Kz@HvBb@dBt@jBpBxBxD|BvGnB~A~@|@zArB~Fj@|@b@\\hAHtBi@H[Mi@v@k@HWUa@gBs@?kByA}@Hw@f@q@~@Q^Pt@lAPhAfAZfAdAvAq@lAkAH]M[iB_Aa@y@O_BJY^OjCSt@Jj@XdA|AdCxFb@^VAx@eAlJ_G\\@TRbB~Cl@l@\\CTYtAkETa@VMdAf@rCzCv@HTSNi@g@eBA_@TQrBi@Rk@Ci@Wu@iB_CSqCSm@mAe@}CQsD^aCGm@Rg@z@uAzFWb@c@RcPoDyDgAuBSsCHmEj@kCb@_FxAeABW]K_A@iBL{AZm@|Aw@EsABeBfAqBDc@O_@_A{@aC}IMYYKYJQVSt@I`HBXf@\\V@b@[ZwACSa@WwFDuAP[TAb@N^bCdBR\\@b@i@x@kFpDkAlA[tAHxB^bBv@lBj@z@`A~@xD|BxGpBfBdA~@dBlBnFj@~@`@ZhAJtBg@J[Kq@p@a@LWQa@gBs@G]FiA{AaA@m@f@{@z@Ub@Jx@lAXtAz@PhAhAXE|@i@tAuAB_@GMgB_Ae@w@QaA@g@LW^OfCQz@Ld@VfA`BzBhF^d@VFTKf@y@vJeG\\DTRdBbDp@f@f@UvAoEj@q@XBl@^rCzCv@JTOPi@k@cCRUrBg@Vw@WsAqBkCOiCQi@_Ae@uBQcBAuC^kBKm@Nq@bAyAbGY`@c@JaCs@cQ}DiBWcDD{Ft@}B`@iFzA_@AUMUeA",
+"average_heartrate": 131.4,
+"average_speed": 6.505,
+"elevation_gain": 234.0,
+"source": "strava",
+"streak": 1
 }
 ]
