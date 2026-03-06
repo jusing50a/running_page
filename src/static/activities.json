@@ -11022,5 +11022,21 @@
 "elevation_gain": 139.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17613490585,
+"name": "Zwift - Z2 Cadence Changes on Queen's Highway in Yorkshire",
+"distance": 18922.1,
+"moving_time": "0:50:11",
+"type": "VirtualRide",
+"start_date": "2026-03-05 13:27:51+00:00",
+"start_date_local": "2026-03-05 21:27:51",
+"location_country": "Pier Head, Parliament Street, Low Harrogate, Harrogate, \u54c8\u7f57\u76d6\u7279, North Yorkshire, York and North Yorkshire, \u82f1\u683c\u5170;\u82f1\u683c\u862d, HG1 2QU, \u82f1\u56fd;\u82f1\u570b",
+"summary_polyline": "_kphInflH_Cl@u@^uEvD{@|@OZCf@lBrIPn@f@bAJ^?f@ELSRk@TuAZs@F_@Iu@o@oAeBc@y@iAyCIGQFgDhC_Aj@yC|@eGpAKZZ|GHdAJ\\\\j@r@~@nAfA\\b@Lf@t@dFrBzGzCtG|DfIrA~Cj@jBt@~C`@bC|@hGJJLE`J_FXSNSl@aBP}A?iBDWJQZWbCgAHM@m@q@yE_Gw\\}DmLYiAIwAB{AQ_@Y?m@ZyA\\}@HSGaA}@oAeB_@u@cAmCKIOBsDrCu@d@gCv@qGtAOTPbFLnBF`@L\\l@~@h@l@nAfARZ`AhGpBvG`D`HvDzHpA|Cn@pBp@tCb@fCx@vFDTJLbG_DfCyAf@aAZkAHgA?gBDWJSZU`CgAJKBSEk@k@}D_Ga]kD_Ki@iBMsADyAIi@WMeAb@wAZi@De@Mq@m@oAeBa@u@mA}CMCoFzDwC|@kGrAK\\XhGHfAF`@^r@j@t@zAvAZ^Nh@v@jFpBrGfDlHlDhHpAzCr@zBl@jCb@dC|@jGHRJ@lH{DxA_A^s@\\gAL}AAoABYFUh@e@~BeAHO@UKcAa@oCgGy]mDcKg@iBIuAB{AOa@YAm@ZyA\\}@He@Q}@aA_AsA_@u@cAkCMO[JgDjCu@b@{C~@yFjASNAd@\\lHFb@J\\\\n@j@r@~AxARXJ^f@lDThAhBhGxCrGvDxH|ApDh@dBv@`Db@hCv@vFFTJHzGmDlBmAf@aAZiAHgA?iBDWJQ\\W`CeAHKBSEm@k@}DaGa]kDaKi@iBKsAD{AKg@WIgAb@uAZi@De@M_AaAaAsA_@u@cAkCKQMAwDtCu@d@{C|@wFlASHGb@ZfGHfAH`@\\n@l@t@xAtAZ^J^j@~DNv@nBpGrCfGtDxHbB|Dl@nBr@xCb@jCx@zFHNLAhGcDzBwAf@cARy@L}AAoABYHUh@c@tB}@JGDQAk@k@}D_G_]Sw@_EoLOqA?gCUYWDgCv@_ADQGs@o@qAgBa@w@eAqCMM[J_DbCy@h@gDbAoFhASJCd@\\lHDd@J^^l@j@t@~AxATZH^x@hFnBtGzCxG|DbIxApDr@~Bn@pCzA~JJFJEtJoF`@m@d@yALsAA}ABWHQn@i@vB_AFI@c@q@}EaGe]kDaKg@eBKoABwAGg@UQaAb@sAZw@Fc@My@w@mAeBYk@qA_DUDoEfDyAh@",
+"average_heartrate": 126.6,
+"average_speed": 6.284,
+"elevation_gain": 253.0,
+"source": "strava",
+"streak": 2
 }
 ]
