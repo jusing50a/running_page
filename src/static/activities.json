@@ -11102,5 +11102,21 @@
 "elevation_gain": 7.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17779443325,
+"name": "Zwift - Z2 Cadence Changes on Chain Chomper in Makuri Islands",
+"distance": 16380.1,
+"moving_time": "0:50:14",
+"type": "VirtualRide",
+"start_date": "2026-03-19 13:19:49+00:00",
+"start_date_local": "2026-03-19 21:19:49",
+"location_country": "Graciosa Bay Ward, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "tss`Aqies^RtDTXvAn@PhAG~@O`@cB|@Yh@YvBRdA`AbA~Cx@fB~@t@@xDa@LUJkAdAqATw@Em@{@cBEgAFy@Zs@`CaBNk@DqAQkEOm@g@cAqAcAYw@Bo@|@_BHk@G[gAgAGg@Fi@Pg@^[hDc@f@cBNQlDm@Z_@Lq@Wy@y@a@iHo@MOA]LcBVIpAHJUMKgC?]UCc@LQRALJFb@LDRa@TKtARVRBf@v@TFn@JFf@ARk@TOTL\\n@VHXE`A_AhESd@SJ[[cAe@OoC?sBhAmALgCq@cCKkA{@iAdASBsB}ACWNa@MSAYdAuAZKhD~BTEJSSaBiA}@o@W_ADa@T_BvBmARm@Is@o@_AQgAw@{ASWQGa@Di@NQ\\CfBZjBhAR?bCeDzAmCo@}AsBy@Gc@NaBEg@oBqAqAuBAoAQoAR{CA}@p@y@k@oA?YVO|@^\\KJ]?uBLQ\\C\\Zb@dDNLV@Tg@ReDXW`@EZNN^C|AVxAn@x@r@B`Ag@N_Aj@gA@gBV[d@KTLj@bBjCdCxBSfAVd@o@Ei@gJaGSk@AqBa@k@iB_@o@JgAf@]GIe@r@_BHi@_@YaAMwAsAYEq@NsDbB_AAOc@BcDWOwB@e@VOn@Bd@z@n@BNQ^_@RaAm@k@O}A@u@sAq@MUJFlAKViAVk@bBSN{DGiBZmB|@m@Ia@cAUKUJ}@pAYBwAi@cALWh@?Tb@vAWnBDTxAz@Zv@AdBKT_@PuCTaBu@_B[Ka@XoCEeAKYoA_@{A}@q@k@}@qA]OeGd@sAvAsBp@i@d@Cd@h@hCExDNdBf@l@dCz@b@n@?jAe@xAEz@p@pDp@`APl@A^Yl@C`@|@~ASbBz@~AXpDx@zDHtCUxC@j@zCxJ\\HpCcAV@hDpJpDdH^XlBDnAvAz@b@zCI^^z@tC|A~Af@Ld@KnByBdA_@nCSlAd@`@~@N|ClBhAN|@E|@Qj@eB~@Wd@WbBFhAf@z@`@Z`Dv@fB~@`A?~C[VOPyAbAmATeAIg@y@aBCeAFw@d@y@nBmATq@H_BYuEa@mA{AmA_@aABk@~@eBFm@K[gAiAAk@Hi@Te@`@UzC]NSb@}ApDq@ZYLk@Iy@u@i@}Hy@Io@L}ATIrAHJOKQiC@YQIYDWRMPDJZ",
+"average_heartrate": 125.1,
+"average_speed": 5.435,
+"elevation_gain": 212.0,
+"source": "strava",
+"streak": 2
 }
 ]
