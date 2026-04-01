@@ -11182,5 +11182,21 @@
 "elevation_gain": 22.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17925645792,
+"name": "Zwift - Z2 Cadence Changes on 2018 Worlds Short Lap in Innsbruck",
+"distance": 9049.3,
+"moving_time": "0:50:07",
+"type": "VirtualRide",
+"start_date": "2026-03-31 13:47:35+00:00",
+"start_date_local": "2026-03-31 21:47:35",
+"location_country": "Franz-Greiter-Promenade, Saggen, Innsbruck, \u56e0\u65af\u5e03\u9c81\u514b, \u8482\u7f57\u5c14\u5dde, 6020, \u5967\u5730\u5229",
+"summary_polyline": "i`p_HuvpdAr@XTDvA?h@BxR|An@HTEHGFMBMAs@eA_Mi@}DAk@DSHMLGtA_@xBa@f@JnAt@b@NPBRAHENQJYH]NqAz@sLP_@JIv@WVWh@y@l@kAjAcCb@gAzA_GDIHCH@l@Rf@Fr@P`@DTAHEHKDMDq@AiAO}DU{B@UBUJQJKXO`FeBz@]zBoA`DoBj@e@b@c@rCmDR]Py@HKZIh@DZIpEoC~@a@hGgBzHiBVOJOL[XSNSF]As@k@gFGaA@cAXsE?gAEeAS{Bw@cF}@kDi@cDm@sEe@kEgBaTUqDEwAC_B?uBBmBJaCHs@Jk@XaAdAyBNm@D_@BuAQyFAeABQHINALJHTF`@HpAHp@r@tDh@pBR`@TRVDPCNKLSH[BUCy@YoDAq@Bw@H_ATgBn@mDVkAXgAXu@Vi@LQNKn@IPKPUL[Ty@Dm@EaDOgIIsBUwB}@{Ei@gDEy@Be@Fc@b@}AhAwCr@{ARWNGVGt@@vARpBd@hA\\r@Z`@VlA`A\\`@X`@Th@Zt@p@hCbBfInAvEf@rAZj@TZZZf@\\r@X~Bt@l@Tz@d@`Ap@pAdArAnA^d@bAfBZ\\^X~@b@~CfAvDzAxAv@xAbAvCbC`DdCPRLX?NKlB@RFJNDRCjCwAVIZ?PFXX^Tt@j@l@X^HvAFjATxC|@pHdCdCr@h@TXR`BzAr@h@t@^jA\\",
+"average_heartrate": 123.6,
+"average_speed": 3.009,
+"elevation_gain": 336.0,
+"source": "strava",
+"streak": 1
 }
 ]
