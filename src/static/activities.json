@@ -11246,5 +11246,21 @@
 "elevation_gain": 1911.4,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18028545926,
+"name": "\u665a\u95f4\u9a91\u884c",
+"distance": 20688.7,
+"moving_time": "0:50:50",
+"type": "VirtualRide",
+"start_date": "2026-04-08 13:22:46+00:00",
+"start_date_local": "2026-04-08 21:22:46",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "dc`fAoe~y^mEoAiC{AmAcAw@aAo@yAe@}AS{AD}Ad@iAdAaArE}Cf@g@N[@_@Qe@iCkBQk@PYdB[JSkAmKEsBP_BXgAt@uAv@{@dCsAzC{@dM}A~B]lA_@p@c@d@o@zA_Ef@y@|AkAbBg@vBCnBl@hAz@rC`Ev@x@fAf@nAJ|AKnFw@x[{ItAGd@TLXBrCKbMYpBwA`Gs@zAOh@ApHEhAOl@a@\\oALuFH}@Ga@a@Wi@mCkJ[m@k@o@w@]q@@i@Vg@h@Y~@Cl@Jv@|FhMj@x@DVYXu@T_KxAs@h@M^?TZb@l@HdKsAj@?TRQVs@P{LhAeAR]h@[pCs@`D[t@_@Vc@@cBk@_L_C{DgAsBUcDJqH`AaHlBk@IWo@E}ALcCPm@b@YlBq@zCk@zLaBp@_@lB}Bv@g@v@BdCv@f@ENOJkAMeFHeBb@eA~BgCP_@Hg@GiA_@uAk@}@}@m@cAWyBQqHE{@V}@h@wE|DiAv@gAZkEf@O^Fv@dCrJCv@QRYDWGa@c@{B{IQW[IWNQXOv@GbHFVj@VVAPM^_ABk@ISc@QcBCoCJqAP[TA`@L^~B`BTZF`@K`@UX}F~DkAvASdA@tAXbBf@zAnAvBpCvBtBhAxF`BbBz@lAlBdBbFp@lA^\\^LdA?|@Sj@WDQOo@r@g@Ja@U]eBq@CMJgAEQYYu@YMQP}@R]b@U^Eb@Jv@hANfALRz@Nx@~@`@FnAu@v@s@Te@@MQYoBiA[w@K{@Bg@NQj@QzBKr@Jh@VbAxA~BpF\\d@THTGf@y@`KiGXFRRfBdDp@d@XKPWnAcEf@q@X@j@X~CdDd@Jb@QNu@g@aB?]VOjBc@Ta@Be@WeAqA{A]m@OgCQk@}@e@iBSmBAgD^gAKGO@a@NEtLgAn@UN]UWu@CmKrAa@GUYAQL_@t@i@tJuA~@YVYCa@q@cAmFgLS}@BaA\\}@`Aq@p@Cx@b@t@`ArCzJVp@b@b@x@F~FKnAMb@UTe@Fs@DcJbAiCvAyFVsBFuB@{MMa@g@]yABs[vIeCd@aFb@kAOy@c@u@y@kCwDgA_Ay@_@{@SsB?sBj@gBrAg@x@uAtD{@bA{Al@_Ej@",
+"average_heartrate": 126.1,
+"average_speed": 6.783,
+"elevation_gain": 138.0,
+"source": "strava",
+"streak": 1
 }
 ]
