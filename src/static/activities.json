@@ -11278,5 +11278,21 @@
 "elevation_gain": 84.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18105510434,
+"name": "Zwift - Z2 Cadence Changes on Duchy Estate in Yorkshire",
+"distance": 18947.4,
+"moving_time": "0:51:10",
+"type": "VirtualRide",
+"start_date": "2026-04-14 14:00:54+00:00",
+"start_date_local": "2026-04-14 22:00:54",
+"location_country": "Three's a Crowd, 11, West Park, West End Park, Harrogate, \u54c8\u7f57\u76d6\u7279, North Yorkshire, York and North Yorkshire, \u82f1\u683c\u5170;\u82f1\u683c\u862d, HG1 1BL, \u82f1\u56fd;\u82f1\u570b",
+"summary_polyline": "quohIz{kHyCdBqBz@_OlE_A^}@l@oDxC}@`AO^?h@pB|IRl@f@dANx@P^Dh@C`BNhApEzMhGd^f@tD@f@M`@mClAWRIPCT@xAO`Be@xAUb@OP}BpAaGxCUIK]]aC}@uFq@qCs@_CkAsCcEoI{CuGoB{G_A{F[e@{AyAgAcBMa@Ec@a@kIDUVS`GuArCy@v@e@nDmCPEPLnA`Db@v@pAbBl@h@`@D~@OnA[j@YN@LHHRBp@ArAJbAf@`BlDfKfGz]d@fDDj@C\\MT{B`Ag@^IRAV@zAMpAWbAe@`A{BvAsGdDUIK_@]cC_AwFq@sCi@gByAmDeEqImC}FqByG_A{FIY{B_Cu@iAO]Ic@KgBUkE?q@FSVOvG{A|Bs@f@[zDuCPEPJnA`Db@x@nAbBl@f@`@F~@MlA]l@WLANHHPFp@CtAJbAd@|AnDjKfGz]d@fDDz@GZQPsBx@g@^IPAV@|AMpA_@pAe@|@{CfBkFjCUIK]]eC_AwFq@sCu@_CmAuCwDyH{CuGqBwGQcAm@yDIY{B_Cu@iAO]Ic@MgBSmE?q@FQVOtG{A|Bs@t@c@lDkCPGPHnA`Db@x@`ArAz@x@`@F~@MnA]j@WNALHJPFn@CtAHdA`@pAtDtKdGz]f@dDDx@E\\OP_CbAYRKNET@|AKtAWbAm@nA_CtAeG|CUAM[]eC_AwF{@oDi@eBmAuCeEqIyCwGqB{G}@yFMSkBkBw@gAO]Ka@MgBWaGFUTQfHcBxBq@dFqDRBLRbAjC`@x@bAtAx@x@`@J~@MjCw@NDJNFV@VEdA@`@J|@n@rBjCpH\\jAbGr]f@fDBj@C\\MT}B`Ag@^GR?tBMpAY`Ae@`AwChB{FrCQQK_@uAaJq@uCs@aCyAmDwDyH{CwGqByG}@{F[i@mBmBc@o@_@{@Gc@UcEKeCBWHOJG~GaBtBm@v@e@nDkCPIPHLTzAtDpAfBz@v@`@B`AM|Bu@NBJLHRBXEzAJhA`@rAtDtKdGt]h@rDBr@CVSXsBx@c@XKNER@hBKhAYjAe@bAkC`BiGzCQOK_@uAcJs@}Cq@wBeAiCqEgJ}C_HiBkGaAcGMSsBuBs@eAO[Ga@IaA[{GBSDMRKtG}AbCu@rEeD\\ONDJPhArCXl@z@lA~@`AVLV@~@MpAa@",
+"average_heartrate": 119.6,
+"average_speed": 6.172,
+"elevation_gain": 246.0,
+"source": "strava",
+"streak": 1
 }
 ]
