@@ -11470,5 +11470,21 @@
 "elevation_gain": 2924.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18851269215,
+"name": "Zwift - Z2 Cadence Changes on Suki's Playground in Makuri Islands",
+"distance": 20748.2,
+"moving_time": "0:50:20",
+"type": "VirtualRide",
+"start_date": "2026-06-09 13:36:31+00:00",
+"start_date_local": "2026-06-09 21:36:31",
+"location_country": "Nea-Noole Ward, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "~bv`Asgfs^|BNbBu@bATFb@UjARbBgArBMn@RzAh@nAQhBPx@pCpClG|@t@\\fClEtEpE@vAwAhAWjAlChD@v@e@xCVnBf@p@dCbAj@n@XjDbAzB@|@S\\{@LuBk@wAE}Dj@wC?i@Yi@aC_CkBmAUaBt@m@@cBqA}By@iBwAaABuBrAeBo@c@g@K{@}@a@yDrA{@Ay@a@]g@Om@AmBiAo@aEdBaAnBqB|@mDEkC\\qCcBoD_Au@aCcBs@IYLuA`AiATcAcAiCB_CZo@bCgBT}B_@mFc@cA{AoAWw@Bg@z@}AJo@G]cAaAI{@Ry@\\a@rDk@t@qBpDq@b@uA]w@}@_@cHm@Kg@LeBjBAHWwCI]YAc@d@MZr@p@m@zATNt@t@THl@TPd@IXu@VBb@t@d@JpAeAlGg@`C`AdBLHQs@kBeAsALeAt@_@rCrAjAAzAeABk@[_Ac@]gC\\sC]cC|@{EHyCzAyBiBvA_DaGgEy@v@YBkD}Bi@KqFhHqCuAsGeAeE{B{@mBoAaAo@[sBAq@[w@qBoBgBo@oAEiCfAyAk@y@yBe@aBH}@XkA~@mAVaAvA_BYAsCeAgAKg@dAiJEmBuAm@uBqAaBsBo@KcFb@uAtAaC|@e@h@h@zCD~Gb@p@vCfAZr@?x@o@rCv@dE|@|A]nB~@pBUpA~@pBR~C|@lEFvCOdEtChJZLzCeAVHfDrJtDfHb@RxAAjCzBdCKf@JtAvD~AzAz@D|BaCbA_@lCUjAb@b@z@TjD~Ax@Vx@MhBuBtAe@jBFbBvAzArCp@xB`AnE_@VSPwArAwBAy@{@aBAsBZ_AfCgBRkCc@mFe@_AsAeAWw@@g@hAkCE_@kAmAA{@Vy@`@]hDe@t@qBnDo@V]Lw@Us@w@_@oHq@Mg@JgBdBAPSOMmCC[a@Jc@b@BPj@p@k@~AVNv@v@TFl@XL`@K\\u@tAfArAcA`Hg@pB~@hCVdDfApBPz@|A^NjA[Dg@c@_B^i@~@W|@XtAlAf@lARdCl@v@lBZ|@GdAo@`AJPd@UvARxAoAbCEf@RzAh@rAQzALt@vCzCxHtAlCnEtEpEJr@Ij@aAj@m@nANn@~A|A`@x@e@~DJxAl@jApDjB^zD|@`BHp@Mz@w@RcDo@qFh@oBBw@E][",
+"average_heartrate": 129.4,
+"average_speed": 6.87,
+"elevation_gain": 157.0,
+"source": "strava",
+"streak": 1
 }
 ]
