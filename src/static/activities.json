@@ -11486,5 +11486,21 @@
 "elevation_gain": 157.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18879311160,
+"name": "Zwift - Z2 Cadence Changes on Figure 8 in Watopia",
+"distance": 20429.5,
+"moving_time": "0:50:23",
+"type": "VirtualRide",
+"start_date": "2026-06-11 14:31:55+00:00",
+"start_date_local": "2026-06-11 22:31:55",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "|u_fAem~y^{@gA}@{B_@eBEgBP_Ah@w@lGoEb@e@N]@]Qc@iCoBQi@DQLI`BWLQ_@eEk@eEEcCR}AZeA|@}A`A_AzBgAvCw@|L{A~B]jA_@r@c@b@m@zA_Ed@w@|AkAjBm@tBAlBj@fAz@pC|D~@bAfAd@lAH|AK~Es@j[wIbAOx@B`@ZHj@GzOc@dDwAzF{@pBC|HGhAI`@a@`@mANuFHgAIa@e@[s@iCaJSa@k@q@w@a@q@@i@Ti@h@[|@Cl@Jv@Vt@dFrKp@rAUXk@P{HdAwAZq@j@K`@BVTXj@JpKsAj@@NLAHa@Xq@LqLfAeATU^[nCs@`DWt@]ZQFc@E_Bi@aL_CmDcA_CWyDNwG~@uGhBo@CYe@IgBJyBLq@b@a@vBs@xCk@rL_Bx@c@lB}Bx@g@t@DfCv@f@ILOHw@MyFHcBd@eAfCsCLc@Bs@YgB}@{A}@m@yB]yHQoAJgB|@gEpDoA|@{@VaCTuATKHGb@Jx@~B|I?t@MVWJm@QYi@eBeHYu@YQ[HQTUx@GbHBXf@ZV@TILSPk@Fk@ESa@UcBEoCHcALk@VG`@L^hCnBR\\?b@Q\\c@`@_ElCoAbAg@|@Ov@@vARrAx@bCt@rAjB`BnC~AzGrBxAv@b@d@j@fAxBfGl@x@p@ZpACtAa@J[Om@v@g@HWGWSOyAg@K[Hs@Ec@yAy@AUF_@h@w@|@Q^Lt@hATrARLn@HbAdAV?fAo@nAqAF[EM{BuAa@qAEk@Da@ROp@QtBGt@L`@RbAxA~BpF\\d@THTGv@eAnJ}FZFRRfBdDTVXLZKPWnAcEf@q@X@j@X~CdDd@JXGVc@@[g@aB?]VOjBc@Ta@Be@YeAqA{A[m@OiCQi@u@c@gBSyBCuC^iAGOEGODa@NC~KcA~@WRYCQMIa@GiKrAu@AYUEQFa@t@k@dK}A|@[P]COq@gAoFiLS_ABaA\\}@`Aq@r@Cx@b@z@pAxChK\\j@TNz@BvFKdAIf@SXe@Hu@DiJ`A_CxAaGR}AL}C?cMIa@e@a@_@E}@Dw[zIiCd@oE`@oAMcAi@}@cAaCiDkAaAmBo@uBAoBf@kBtAi@|@uAtD}@bA}Al@wEn@",
+"average_heartrate": 133.6,
+"average_speed": 6.758,
+"elevation_gain": 139.0,
+"source": "strava",
+"streak": 1
 }
 ]
