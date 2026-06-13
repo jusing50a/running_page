@@ -11502,5 +11502,21 @@
 "elevation_gain": 139.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18897987946,
+"name": "Lunch Run",
+"distance": 8253.4,
+"moving_time": "0:51:15",
+"type": "Run",
+"start_date": "2026-06-13 03:03:01+00:00",
+"start_date_local": "2026-06-13 11:03:01",
+"location_country": "\u767d\u826f\u8def, \u540e\u6c99\u5cea\u9547, \u987a\u4e49\u533a, \u5317\u4eac\u5e02, 101318, \u4e2d\u56fd",
+"summary_polyline": "glysF{zafUHhANjAFjAX`CD~@J~@J`@H~@JHH?xAYdB@r@E^@LDRJb@f@XTLFZBJHHdCDtDAz@@^E`@Ev@WbLEv@ChBEd@I|ACbBObEItGIxCADIBo@Js@T[?k@Fo@^e@LW@WAkA]u@@KHINCJCj@Mf@INYPODO?_@MKGKQMe@Ac@Fg@@WEqAG_ABuBKm@M_@U[UO_@ISOMSIk@@e@Ru@PoAD_AGy@Ik@a@mAIe@Ao@Fq@Ak@EYQm@My@KyC?aCIk@E{@FgAL{@Rk@T_@\\_@PMn@[ZId@Qn@a@`@g@PK`@?REPKZKh@YdAa@hAKn@@t@AtADVFPV`@XXJVBHDFHFlBDlFIvAc@zRQlBI~BIdEE~@?pAMdF?p@EFk@FiA\\s@Du@`@QF[Do@?q@WSEe@EI@QLOXCz@I`@QT[RI@]IYSMQMk@?_@Hu@Aq@Ck@Iw@BeACm@M_AO[U[w@QMOKWAq@Fq@No@Fe@Bq@?m@KmAIc@[_AIc@?_@HqAAk@e@oA?a@G}@CaC@cAOeB@oAL}@Ni@LYj@u@PO^QpAa@t@i@Ze@LIh@A\\Ir@]jAc@v@Q\\Et@?RGHATBXFt@?VJp@f@bA\\HF?LJtIUrIGbAKrGMhBCnAQrEGrB@bAQnG@f@ELC@_@BmA\\a@By@b@c@N_@Ha@?_@Gw@][?SBQLEHCVAt@CHOPQPUJQ@UGSMKKKWG_@?SFcA?m@OsBD}AK{@M_@Q[WO[EOGMOGWAk@ZeCFoBIu@Km@]_AKc@?e@Fu@Ay@EUQa@O{@IaB?cEIq@Cc@@{@Fk@Ji@`@_Ad@k@POj@W`A[h@YRQV_@NKNCV@HAPMt@W^_@Fc@AIKcA",
+"average_heartrate": 169.3,
+"average_speed": 2.684,
+"elevation_gain": 17.0,
+"source": "strava",
+"streak": 1
 }
 ]
