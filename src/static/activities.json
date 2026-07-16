@@ -11630,5 +11630,21 @@
 "elevation_gain": 18.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19324367404,
+"name": "Night Hike",
+"distance": 2345.3,
+"moving_time": "0:40:11",
+"type": "Hike",
+"start_date": "2026-07-15 13:17:04+00:00",
+"start_date_local": "2026-07-15 21:17:04",
+"location_country": "\u6e29\u6986\u6cb3\u53f3\u5824\u8def, \u540e\u6c99\u5cea\u9547, \u987a\u4e49\u533a, \u5317\u4eac\u5e02, 101318, \u4e2d\u56fd",
+"summary_polyline": "yovsFks}eUBCA@BB@PIhAUz@Wb@KZI`@BTZERBHCRBNDLA\\UHOF[HmBBUAEGEKBIL@FKf@EBCEV\\Kl@CDRN@DCDSVWJSAUGWCWBGFCH?VBXRx@`@pAb@~@p@jAV^r@r@h@d@dAp@l@n@f@\\VJh@Fh@EXBNFPNVFXBb@?TERIb@g@@GEIMGKA_CCEGI_@EEGAWCKBQf@Cf@CDGB_@Ag@OWOQO]c@MIM?_A^a@Ha@?SCMKOS_@wAYm@SOi@QOMUSWe@c@cA]eAk@aA_AmAYi@IYCQ@gAMUESRa@RSVOJC^EN?VF@FGl@Fn@Ch@QXQBOHUNAFDJRPn@Rd@ZLCHKD_@BG?QJq@Bs@@Eb@c@NIVI\\GFGBWC]GW?e@BGCI?B",
+"average_heartrate": 99.9,
+"average_speed": 0.973,
+"elevation_gain": 23.0,
+"source": "strava",
+"streak": 2
 }
 ]
